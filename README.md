@@ -23,7 +23,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 ## Aplikacje na Linuxa
 * __Przeglądarka Internetowa__ - [Firefox](https://www.mozilla.org/) -> [Iridium Browser](https://iridiumbrowser.de/) -> [Falkon](https://www.falkon.org/) -> [Tor Browser](https://www.torproject.org/) -> [Chromium](https://chromium.woolyss.com/download/) -> [Ungoogled-Chromium](https://github.com/Eloston/ungoogled-chromium) -> [Brave](https://github.com/brave/brave-browser/releases)
 * __Odtwarzacz Video__ - [VLC](https://www.videolan.org/vlc/) -> [MPV](https://mpv.io/) -> [SMPlayer](https://www.smplayer.info/) -> [Mplayer](http://www.mplayerhq.hu/)
-* __Przeglądarka Zdjęć__ - [Nomacs](https://nomacs.org/) -> Eye of Gnome -> Gwenview
+* __Przeglądarka Zdjęć__ - [Nomacs](https://nomacs.org/) -> [Eye of Gnome](https://wiki.gnome.org/Apps/EyeOfGnome/) -> [Gwenview](https://userbase.kde.org/Gwenview)
 * __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Krita](https://krita.org/) -> [Mypaint](http://mypaint.org/) -> [Pinta](https://pinta-project.com/pintaproject/pinta/) -> [Drawpile](https://drawpile.net/)
 * __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org)
 * __Przeglądarka PDF__ - [Evince](https://wiki.gnome.org/Apps/Evince) -> [Okular](https://okular.kde.org/)
@@ -34,19 +34,19 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Organizacja i Edycja Zdjęć__ - [GIMP](https://www.gimp.org/) -> [Digikam](https://www.digikam.org/) -> [Darktable](https://www.darktable.org/) -> [Shotwell](https://wiki.gnome.org/Apps/Shotwell) -> [RAW Therapee](https://www.rawtherapee.com/) -> [gThumb](https://wiki.gnome.org/Apps/Gthumb)
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/) -> [Simple Screen Recorder](https://www.maartenbaert.be/simplescreenrecorder/) -> [Green Recorder](https://github.com/foss-project/green-recorder)
 * __Informacje o systemie__ - [HardInfo](https://help.ubuntu.com/community/HardInfo) -> [I-Nex](http://i-nex.linux.pl/) -> [CPU-X](https://github.com/X0rg/CPU-X/releases)
-* __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> File-Roller -> [Engrampa](https://github.com/mate-desktop/engrampa)
+* __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [File-Roller](https://en.wikipedia.org/wiki/File_Roller) -> [Engrampa](https://github.com/mate-desktop/engrampa)
 * __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/)
-* __Obsługa płyt CD/DVD__ - [k3b](https://sourceforge.net/projects/k3b/) -> [Brasero](https://wiki.gnome.org/Apps/Brasero) -> [Grip](https://sourceforge.net/projects/grip/) -> Acetone ISO -> XfBurn
+* __Obsługa płyt CD/DVD__ - [k3b](https://sourceforge.net/projects/k3b/) -> [Brasero](https://wiki.gnome.org/Apps/Brasero) -> [Grip](https://sourceforge.net/projects/grip/)
 * __Obsługa Dysków__ - [Gparted](https://gparted.org/) -> [Gnome Disk](https://wiki.gnome.org/Apps/Disks)
 * __Sprawdzanie zajętości dysku__ - [Baobab](http://www.marzocca.net/linux/baobab/) -> [Qdirstat](https://github.com/shundhammer/qdirstat)
-* __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> QphotoRec
+* __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> [QphotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
 * __Nocne Światło__ - [RedShift](http://jonls.dk/redshift/)
-* __Screenshoty__ - Shutter
+* __Screenshoty__ - [Flameshot](https://github.com/lupoDharkael/flameshot)
 * __Kopia Zapasowa__ - [Timeshift](https://github.com/teejee2008/timeshift) -> [Deja-Dup](https://wiki.gnome.org/Apps/DejaDup) -> [Simple Backup Suite](https://help.ubuntu.com/community/BackupYourSystem/SimpleBackupSuite) -> [Grsync](http://www.opbyte.it/grsync/)
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/) -> [Karbon](https://www.calligra.org/karbon/)
 * __Tworzenie obiektów 3D__ - [Blender](https://blender.org/)
-* __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/)
+* __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
 * __Tworzenie Bootowalnego Pendriva__ - [Etcher](https://www.balena.io/etcher/) -> [WoeUSB](https://github.com/slacka/WoeUSB) -> [MultiBootUSB](http://multibootusb.org/)
 * __Wyszukiwanie Duplikatów__ - [Fslint](https://www.pixelbeat.org/fslint/)
 * __Wyszukiwanie Pustych Folderów__ - [Fslint](https://www.pixelbeat.org/fslint/)
@@ -60,7 +60,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
 * __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/)
 * __Mapy__ - [Marble](https://marble.kde.org/) -> [GNOME Maps](https://wiki.gnome.org/Apps/Maps)
-* __Przeglądarki Plików__ - [DoubleCommander](https://doublecmd.sourceforge.io/) -> Nemo -> Dolphin -> Caja -> Nautilus -> QtFm -> Thunar
+* __Przeglądarki Plików__ - [DoubleCommander](https://doublecmd.sourceforge.io/) -> [Nemo](https://github.com/linuxmint/nemo) -> [Dolphin](https://kde.org/applications/system/dolphin/) -> [Caja](https://github.com/mate-desktop/caja) -> [Nautilus](https://gitlab.gnome.org/GNOME/nautilus) -> [QtFm](https://qtfm.eu/) -> [Thunar](https://docs.xfce.org/xfce/thunar/start)
 * __Modyfikacja GRUB__ - [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) -> [Grub-Customizer](https://launchpad.net/grub-customizer)
 * __Telewizja Internetowa__ - [Kodi](https://kodi.tv/) -> [MythTV](https://www.mythtv.org/)
 * __Komputerowe wspomaganie projetkowania__ - [QCad](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/)
@@ -95,11 +95,11 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/)
 * __Tworzenie obiektów 3D__ - [Blender](https://blender.org/)
-* __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/)
+* __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
 * __Tworzenie Bootowalnego Pendriva__ - [Rufus](https://rufus.ie/) -> [Etcher](https://www.balena.io/etcher/) -> [MultiBootUSB](http://multibootusb.org/)
 * __Wyszukiwanie Duplikatów__ -
 * __Wyszukiwanie Pustych Folderów__ -
-* __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Xenko]() -> [Urho3D](https://urho3d.github.io/)
+* __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Xenko](https://xenko.com/) -> [Urho3D](https://urho3d.github.io/)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Sklep z grami__ - [itch.io](https://itch.io/app)
 * __Rozmowy VoIP__ - [Jami](https://jami.net/)
@@ -136,8 +136,8 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 ###### (GP) - Dostępny tylko w Google Play
 
 ## Systemy
-* __Ubuntu__: [Ubuntu](https://www.ubuntu.com/), [Kubuntu](https://kubuntu.org/), [Xubuntu](https://xubuntu.org/), [Lubuntu](https://lubuntu.net/)
-* __Linux Mint__: [Linux Mint XFCE](https://linuxmint.com/download.php), [Linux Mint MATE](https://linuxmint.com/download.php), [Linux Mint Cinnamon](https://linuxmint.com/download.php)
+* __Ubuntu__: [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/)
+* __Linux Mint__: [Linux Mint XFCE](https://linuxmint.com/download.php) -> [Linux Mint MATE](https://linuxmint.com/download.php) -> [Linux Mint Cinnamon](https://linuxmint.com/download.php)
 * __Fedora__: [Fedora](https://getfedora.org/)
 * __CentOS__: [CentOS](https://www.centos.org/)
 * __Arch__: [Arch](https://www.archlinux.org/)
