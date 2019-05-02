@@ -19,6 +19,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 2. [Aplikacje na Windowsa](#aplikacje-na-windowsa)
 3. [Aplikacje na Androida](#aplikacje-na-androida)
 4. [Systemy](#systemy)
+5. [Legenda](#legenda)
 
 ## Aplikacje na Linuxa
 * __Przeglądarka Internetowa__ - [Firefox](https://www.mozilla.org/) -> [Iridium Browser](https://iridiumbrowser.de/) -> [Falkon](https://www.falkon.org/) -> [Tor Browser](https://www.torproject.org/) -> [Chromium](https://chromium.woolyss.com/download/) -> [Ungoogled-Chromium](https://github.com/Eloston/ungoogled-chromium) -> [Brave](https://github.com/brave/brave-browser/releases)
@@ -137,11 +138,6 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Zarządzanie Hasłami__: [Bitwarden(GP)](https://github.com/bitwarden/mobile)
 * __Inne__ -
 
-##### Legenda:
-
-###### (F) - Dostępny tylko w sklepie F-droid
-###### (GP) - Dostępny tylko w Google Play
-
 ## Systemy
 * __Ubuntu__: [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/)
 * __Linux Mint__: [Linux Mint XFCE](https://linuxmint.com/download.php) -> [Linux Mint MATE](https://linuxmint.com/download.php) -> [Linux Mint Cinnamon](https://linuxmint.com/download.php)
@@ -153,6 +149,8 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __ReactOS__: [ReactOS](https://www.reactos.org/)
 * __HaikuOS__: [HaikuOS](https://www.haiku-os.org/)
 
+##### Legenda:
 
-###UWAGA
-Programy oznaczone za pomocą symbolu (0*0), nie posiadają plików binarnych w formie do pobrania i aby ich używać należy je skompilować.
+(F) - Dostępny tylko w sklepie F-droid  
+(GP) - Dostępny tylko w Google Play  
+(0*0) - Nie posiada plików binarnych w formie do pobrania i aby ich używać należy je skompilować.
