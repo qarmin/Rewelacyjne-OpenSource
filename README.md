@@ -94,7 +94,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Sprawdzanie zajętości dysku__ - [WinDirStat](https://windirstat.net/)
 * __Odzyskiwanie plików__ -
 * __Nocne Światło__ -
-* __Screenshoty__ - [GreenShoot](https://getgreenshot.org/) -> [Sharex](https://getsharex.com/)
+* __Screenshoty__ - [GreenShoot](https://getgreenshot.org/) -> [Sharex](https://getsharex.com/) -> (ksnip)[https://github.com/DamirPorobic/ksnip]
 * __Kopia Zapasowa__ -
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/)
