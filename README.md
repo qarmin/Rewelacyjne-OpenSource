@@ -138,7 +138,9 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 ## Systemy
 * __Ubuntu__: [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/)
 * __Linux Mint__: [Linux Mint XFCE](https://linuxmint.com/download.php) -> [Linux Mint MATE](https://linuxmint.com/download.php) -> [Linux Mint Cinnamon](https://linuxmint.com/download.php)
+* __Debian__: [Debian](https://www.debian.org/index.pl.html)
 * __Fedora__: [Fedora](https://getfedora.org/)
+* __openSUSE__: [openSUSE tumbleweed](https://software.opensuse.org/distributions/tumbleweed) -> [openSUSE Leap](https://software.opensuse.org/distributions/leap)
 * __CentOS__: [CentOS](https://www.centos.org/)
 * __Arch__: [Arch](https://www.archlinux.org/)
 * __Manjaro__: [Manjaro](https://manjaro.org/)
