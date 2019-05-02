@@ -15,10 +15,15 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 
 
 ## Spis Treści
-1. [Aplikacje na Linuxa](#aplikacje-na-linuxa)
-2. [Aplikacje na Windowsa](#aplikacje-na-windowsa)
-3. [Aplikacje na Androida](#aplikacje-na-androida)
-4. [Systemy](#systemy)
+- [Rewelacyjne OpenSource](#rewelacyjne-opensource)
+  - [Spis Treści](#spis-tre%C5%9Bci)
+  - [Aplikacje na Linuxa](#aplikacje-na-linuxa)
+  - [Aplikacje na Windowsa](#aplikacje-na-windowsa)
+  - [Aplikacje na Androida](#aplikacje-na-androida)
+        - [Legenda:](#legenda)
+          - [(F) - Dostępny tylko w sklepie F-droid](#f---dost%C4%99pny-tylko-w-sklepie-f-droid)
+          - [(GP) - Dostępny tylko w Google Play](#gp---dost%C4%99pny-tylko-w-google-play)
+  - [Systemy](#systemy)
 
 ## Aplikacje na Linuxa
 * __Przeglądarka Internetowa__ - [Firefox](https://www.mozilla.org/) -> [Iridium Browser](https://iridiumbrowser.de/) -> [Falkon](https://www.falkon.org/) -> [Tor Browser](https://www.torproject.org/) -> [Chromium](https://chromium.woolyss.com/download/) -> [Ungoogled-Chromium](https://github.com/Eloston/ungoogled-chromium) -> [Brave](https://github.com/brave/brave-browser/releases)
@@ -105,7 +110,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Rozmowy VoIP__ - [Jami](https://jami.net/)
 * __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/)
-* __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+* __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
 * __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/)
 * __Mapy__ - [Marble](https://marble.kde.org/)
