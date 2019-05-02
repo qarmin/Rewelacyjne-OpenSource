@@ -46,7 +46,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Sprawdzanie zajętości dysku__ - [Baobab](http://www.marzocca.net/linux/baobab/) -> [Qdirstat](https://github.com/shundhammer/qdirstat)
 * __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> [QphotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
 * __Nocne Światło__ - [RedShift](http://jonls.dk/redshift/)
-* __Screenshoty__ - [Flameshot](https://github.com/lupoDharkael/flameshot)
+* __Screenshoty__ - [Flameshot](https://github.com/lupoDharkael/flameshot) -> [ksnip](https://github.com/DamirPorobic/ksnip)-> [Shutter](https://launchpad.net/shutter)
 * __Kopia Zapasowa__ - [Timeshift](https://github.com/teejee2008/timeshift) -> [Deja-Dup](https://wiki.gnome.org/Apps/DejaDup) -> [Simple Backup Suite](https://help.ubuntu.com/community/BackupYourSystem/SimpleBackupSuite) -> [Grsync](http://www.opbyte.it/grsync/)
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/) -> [Karbon](https://www.calligra.org/karbon/)
