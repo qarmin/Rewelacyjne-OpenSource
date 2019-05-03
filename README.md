@@ -27,7 +27,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Przeglądarka Zdjęć__ - [Nomacs](https://nomacs.org/) -> [Eye of Gnome](https://wiki.gnome.org/Apps/EyeOfGnome/) -> [Gwenview](https://userbase.kde.org/Gwenview) -> [Eye of Mate](https://github.com/mate-desktop/eom)
 * __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Krita](https://krita.org/) -> [Mypaint](http://mypaint.org/) -> [Pinta](https://pinta-project.com/pintaproject/pinta/) -> [Drawpile](https://drawpile.net/)
 * __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org)
-* __Edytor Tekstu__ - [Notepadqq](https://notepadqq.com/s/) -> [CherryTree](https://www.giuspen.com/cherrytree/) -> [Pluma](https://github.com/mate-desktop/pluma) -> [xed](https://github.com/linuxmint/xed)
+* __Edytor Tekstu__ - [Notepadqq](https://notepadqq.com/s/) -> [CherryTree](https://www.giuspen.com/cherrytree/) -> [Atom](https://atom.io/) -> [Gedit](https://wiki.gnome.org/Apps/Gedit)  -> [Pluma](https://github.com/mate-desktop/pluma) -> [xed](https://github.com/linuxmint/xed) -> [Emacs](https://www.gnu.org/) -> [Kate](https://kate-editor.org/)
 * __Przeglądarka PDF__ - [Evince](https://wiki.gnome.org/Apps/Evince) -> [Okular](https://okular.kde.org/) -> [qpdfview](https://launchpad.net/qpdfview) -> [Atril](https://github.com/mate-desktop/atril)
 * __Odtwarzacz Muzyki__ - [Clementine](https://www.clementine-player.org/) -> [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) -> [Amarok](https://amarok.kde.org/) -> [Audacious](https://audacious-media-player.org/) -> [Banshee](http://www.banshee-project.org/)
 * __Poczta__ - [Thunderbird](https://www.thunderbird.net) -> [Claws Mail](http://www.claws-mail.org/) -> [Sylpheed](https://sylpheed.sraoss.jp/en/)
@@ -65,10 +65,10 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Przeglądarki Plików__ - [DoubleCommander](https://doublecmd.sourceforge.io/) -> [Nemo](https://github.com/linuxmint/nemo) -> [Dolphin](https://kde.org/applications/system/dolphin/) -> [Caja](https://github.com/mate-desktop/caja) -> [Nautilus](https://gitlab.gnome.org/GNOME/nautilus) -> [QtFm](https://qtfm.eu/) -> [Thunar](https://docs.xfce.org/xfce/thunar/start) -> [Krusader](https://krusader.org/)
 * __Modyfikacja GRUB__ - [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) -> [Grub-Customizer](https://launchpad.net/grub-customizer)
 * __Telewizja Internetowa__ - [Kodi](https://kodi.tv/) -> [MythTV](https://www.mythtv.org/)
-* __Komputerowe wspomaganie projetkowania__ - [QCad(0*0)](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/)
+* __Komputerowe wspomaganie projektowania__ - [QCad(0*0)](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/) -> [OpenSCAD](https://www.openscad.org/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
 
 
 
@@ -78,12 +78,12 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Przeglądarka Zdjęć__ - [Nomacs](https://nomacs.org/) -> [ImageGlass](https://imageglass.org/)
 * __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Krita](https://krita.org/) -> [Mypaint](http://mypaint.org/) -> [Pinta](https://pinta-project.com/pintaproject/pinta/) -> [Drawpile](https://drawpile.net/)
 * __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org)
-* __Edytor Tekstu__ - [Notepad++](https://notepad-plus-plus.org/) -> [CherryTree](https://www.giuspen.com/cherrytree/)
+* __Edytor Tekstu__ - [Notepad++](https://notepad-plus-plus.org/) -> [Atom](https://atom.io/) -> [CherryTree](https://www.giuspen.com/cherrytree/)
 * __Przeglądarka PDF__ - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) -> [Evince](https://wiki.gnome.org/Apps/Evince)
 * __Odtwarzacz Muzyki__ - [Clementine](https://www.clementine-player.org/) -> [Banshee](http://www.banshee-project.org/)
 * __Poczta__ - [Thunderbird](https://www.thunderbird.net) -> [Claws Mail](http://www.claws-mail.org/) -> [Sylpheed](https://sylpheed.sraoss.jp/en/)
 * __Czyszczenie Systemu__ - [Bleachbit](https://www.bleachbit.org/)
-* __Edytor Video__ - [KdenLive](https://kdenlive.org/) -> [Openshot](https://www.openshot.org/) -> [Vidcutter](https://github.com/ozmartian/vidcutter/releases) -> [Shotcut](https://www.shotcut.org/) -> [WinFF](https://www.biggmatt.com/p/winff.html)
+* __Edytor Video__ - [KdenLive](https://kdenlive.org/) -> [Openshot](https://www.openshot.org/) -> [Vidcutter](https://github.com/ozmartian/vidcutter/releases) -> [Shotcut](https://www.shotcut.org/) -> [WinFF](https://www.biggmatt.com/p/winff.html) -> [VirtualDub2](http://virtualdub2.com/)
 * __Organizacja i Edycja Zdjęć__ - [GIMP](https://www.gimp.org/) -> [Digikam](https://www.digikam.org/) -> [Darktable](https://www.darktable.org/) -> [RAW Therapee](https://www.rawtherapee.com/)
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/)
 * __Informacje o systemie__ -
@@ -101,7 +101,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Tworzenie obiektów 3D__ - [Blender](https://blender.org/)
 * __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
 * __Tworzenie Bootowalnego Pendriva__ - [Rufus](https://rufus.ie/) -> [Etcher](https://www.balena.io/etcher/) -> [MultiBootUSB](http://multibootusb.org/)
-* __Wyszukiwanie Duplikatów__ -
+* __Wyszukiwanie Duplikatów__ - [AntiDupl.Net](https://github.com/ermig1979/AntiDupl)
 * __Wyszukiwanie Pustych Folderów__ -
 * __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Xenko](https://xenko.com/) -> [Urho3D](https://urho3d.github.io/)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
@@ -111,48 +111,50 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
-* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/)
+* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/) -> [OpenLoco](https://github.com/OpenLoco/OpenLoco)
 * __Mapy__ - [Marble](https://marble.kde.org/)
 * __Przeglądarki Plików__ - [DoubleCommander](https://doublecmd.sourceforge.io/)
 * __Modyfikacja GRUB__ -
 * __Telewizja Internetowa__ - [Kodi](https://kodi.tv/) -> [MythTV](https://www.mythtv.org/)
-* __Komputerowe wspomaganie projetkowania__ - [QCad](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/)
+* __Komputerowe wspomaganie projektowania__ - [QCad](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/)  -> [OpenSCAD](https://www.openscad.org/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
 
 ## Aplikacje na Androida
-* __Launcher__: [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) -> [LawnChair](https://lawnchair.app/)
-* __Facebook__: [FaceSlim(F)](https://github.com/indywidualny/FaceSlim)
-* __Twitter__: [SlimSocial for Twitter](https://github.com/rignaneseleo/SlimSocial-for-Twitter)
-* __YouTube__: [SkyTube](http://skytube-app.com/)
-* __Wykop__: [Wykop Mobilny(GP)](https://github.com/feelfreelinux/WykopMobilny)
-* __Reddit__: [Slide](https://github.com/ccrama/Slide)
-* __Galeria Zdjęć__: [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) -> [LeafPic](https://gitlab.com/HoraApps/LeafPic)
-* __Ebooki__: [Document Viewer](https://github.com/SufficientlySecure/document-viewer)
-* __Notes__: [Orgzly](https://github.com/orgzly/orgzly-android)
-* __Poczta__: [K-9 Mail](https://k9mail.github.io/)
-* __Firewall__: [NetGuard(GP)](https://github.com/M66B/NetGuard/) -> [AFWall+](https://github.com/ukanth/afwall/)
-* __Klawiatura__: [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
-* __Przeglądarka Plików__: [Amaze](https://github.com/TeamAmaze/AmazeFileManager)
-* __Zarządzanie Hasłami__: [Bitwarden(GP)](https://github.com/bitwarden/mobile)
+* __Launcher__ - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) -> [LawnChair](https://lawnchair.app/)
+* __Facebook__ - [FaceSlim(F)](https://github.com/indywidualny/FaceSlim)
+* __Twitter__ - [SlimSocial for Twitter](https://github.com/rignaneseleo/SlimSocial-for-Twitter)
+* __YouTube__ - [SkyTube](http://skytube-app.com/)
+* __Wykop__ - [Wykop Mobilny(GP)](https://github.com/feelfreelinux/WykopMobilny)
+* __Reddit__ - [Slide](https://github.com/ccrama/Slide)
+* __Galeria Zdjęć__ - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) -> [LeafPic](https://gitlab.com/HoraApps/LeafPic)
+* __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera)
+* __Ebooki__ - [Document Viewer](https://github.com/SufficientlySecure/document-viewer)
+* __Notes__ - [Orgzly](https://github.com/orgzly/orgzly-android)
+* __Poczta__ - [K-9 Mail](https://k9mail.github.io/)
+* __Firewall__ - [NetGuard(GP)](https://github.com/M66B/NetGuard/) -> [AFWall+](https://github.com/ukanth/afwall/)
+* __Klawiatura__ - [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
+* __Przeglądarka Plików__ - [Amaze](https://github.com/TeamAmaze/AmazeFileManager)
+* __Zarządzanie Hasłami__ - [Bitwarden(GP)](https://github.com/bitwarden/mobile)
+* __Gry__ - [2048](https://github.com/uberspot/2048-android)
 * __Inne__ -
 
 ## Systemy
-* __Ubuntu__: [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/)
-* __Linux Mint__: [Linux Mint XFCE](https://linuxmint.com/download.php) -> [Linux Mint MATE](https://linuxmint.com/download.php) -> [Linux Mint Cinnamon](https://linuxmint.com/download.php)
-* __Fedora__: [Fedora](https://getfedora.org/)
-* __openSUSE__: [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) -> [openSUSE Leap](https://software.opensuse.org/distributions/leap)
-* __Debian__: [Debian](https://www.debian.org/index.pl.html)
-* __CentOS__: [CentOS](https://www.centos.org/)
-* __Arch__: [Arch](https://www.archlinux.org/)
-* __Manjaro__: [Manjaro](https://manjaro.org/)
-* __MX Linux__: [MX Linux](https://mxlinux.org/)
-* __ReactOS__: [ReactOS](https://www.reactos.org/)
-* __HaikuOS__: [HaikuOS](https://www.haiku-os.org/)
+* __Ubuntu__ - [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/)
+* __Linux Mint__ - [Linux Mint XFCE](https://linuxmint.com/download.php) -> [Linux Mint MATE](https://linuxmint.com/download.php) -> [Linux Mint Cinnamon](https://linuxmint.com/download.php)
+* __Elementary OS__ - [Elementary OS](https://elementary.io/)
+* __Fedora__ - [Fedora](https://getfedora.org/)
+* __openSUSE__ - [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) -> [openSUSE Leap](https://software.opensuse.org/distributions/leap)
+* __Debian__ - [Debian](https://www.debian.org/index.pl.html)
+* __CentOS__ - [CentOS](https://www.centos.org/)
+* __Arch__ - [Arch](https://www.archlinux.org/)
+* __Manjaro__ - [Manjaro](https://manjaro.org/)
+* __MX Linux__ - [MX Linux](https://mxlinux.org/)
+* __ReactOS__ - [ReactOS](https://www.reactos.org/)
+* __HaikuOS__ - [HaikuOS](https://www.haiku-os.org/)
 
-##### Legenda:
-
-(F) - Dostępny tylko w sklepie F-droid  
-(GP) - Dostępny tylko w Google Play  
-(0*0) - Nie posiada plików binarnych w formie do pobrania i aby ich używać należy je skompilować.
+### Legenda:
+__(F)__ - Dostępny tylko w sklepie F-droid  
+__(GP)__ - Dostępny tylko w Google Play  
+__(0*0)__ - Nie posiada plików binarnych w formie do pobrania i aby ich używać należy je skompilować.
