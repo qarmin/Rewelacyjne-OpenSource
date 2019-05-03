@@ -26,7 +26,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Odtwarzacz Video__ - [VLC](https://www.videolan.org/vlc/) -> [MPV](https://mpv.io/) -> [Celluloid](https://github.com/celluloid-player/celluloid) -> [SMPlayer](https://www.smplayer.info/) -> [Mplayer](http://www.mplayerhq.hu/)
 * __Przeglądarka Zdjęć__ - [Nomacs](https://nomacs.org/) -> [Eye of Gnome](https://wiki.gnome.org/Apps/EyeOfGnome/) -> [Gwenview](https://userbase.kde.org/Gwenview) -> [Eye of Mate](https://github.com/mate-desktop/eom)
 * __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Krita](https://krita.org/) -> [Mypaint](http://mypaint.org/) -> [Pinta](https://pinta-project.com/pintaproject/pinta/) -> [Drawpile](https://drawpile.net/)
-* __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org)
+* __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org) -> [OpenOffice](https://www.openoffice.org/pl/)
 * __Edytor Tekstu__ - [Notepadqq](https://notepadqq.com/s/) -> [CherryTree](https://www.giuspen.com/cherrytree/) -> [Atom](https://atom.io/) -> [Gedit](https://wiki.gnome.org/Apps/Gedit)  -> [Pluma](https://github.com/mate-desktop/pluma) -> [xed](https://github.com/linuxmint/xed) -> [Emacs](https://www.gnu.org/) -> [Kate](https://kate-editor.org/)
 * __Przeglądarka PDF__ - [Evince](https://wiki.gnome.org/Apps/Evince) -> [Okular](https://okular.kde.org/) -> [qpdfview](https://launchpad.net/qpdfview) -> [Atril](https://github.com/mate-desktop/atril)
 * __Odtwarzacz Muzyki__ - [Clementine](https://www.clementine-player.org/) -> [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) -> [Amarok](https://amarok.kde.org/) -> [Audacious](https://audacious-media-player.org/) -> [Banshee](http://www.banshee-project.org/)
@@ -47,7 +47,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Kopia Zapasowa__ - [Timeshift](https://github.com/teejee2008/timeshift) -> [Deja-Dup](https://wiki.gnome.org/Apps/DejaDup) -> [Simple Backup Suite](https://help.ubuntu.com/community/BackupYourSystem/SimpleBackupSuite) -> [Grsync](http://www.opbyte.it/grsync/)
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/) -> [Karbon](https://www.calligra.org/karbon/)
-* __Tworzenie obiektów 3D__ - [Blender](https://blender.org/)
+* __Tworzenie i modyfikacja obiektów 3D__ - [Blender](https://blender.org/) -> [MeshLab](http://www.meshlab.net/) -> [Meshroom](https://alicevision.github.io/#meshroom)
 * __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
 * __Tworzenie Bootowalnego Pendriva__ - [Etcher](https://www.balena.io/etcher/) -> [WoeUSB](https://github.com/slacka/WoeUSB) -> [MultiBootUSB](http://multibootusb.org/)
 * __Wyszukiwanie Duplikatów__ - [Fslint](https://www.pixelbeat.org/fslint/)
@@ -68,6 +68,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Komputerowe wspomaganie projektowania__ - [QCad(0*0)](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/) -> [OpenSCAD](https://www.openscad.org/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
+* __Nauka Języków__ - [Anki](https://apps.ankiweb.net/)
 * __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
 
 
@@ -77,7 +78,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Odtwarzacz Video__ - [VLC](https://www.videolan.org/vlc/) -> [MPC Home Cinema](https://mpc-hc.org/) -> [MPV](https://mpv.io/) -> [SMPlayer](https://www.smplayer.info/) -> [Mplayer](http://www.mplayerhq.hu/)
 * __Przeglądarka Zdjęć__ - [Nomacs](https://nomacs.org/) -> [ImageGlass](https://imageglass.org/)
 * __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Krita](https://krita.org/) -> [Mypaint](http://mypaint.org/) -> [Pinta](https://pinta-project.com/pintaproject/pinta/) -> [Drawpile](https://drawpile.net/)
-* __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org)
+* __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org) -> [OpenOffice](https://www.openoffice.org/pl/)
 * __Edytor Tekstu__ - [Notepad++](https://notepad-plus-plus.org/) -> [Atom](https://atom.io/) -> [CherryTree](https://www.giuspen.com/cherrytree/)
 * __Przeglądarka PDF__ - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) -> [Evince](https://wiki.gnome.org/Apps/Evince)
 * __Odtwarzacz Muzyki__ - [Clementine](https://www.clementine-player.org/) -> [Banshee](http://www.banshee-project.org/)
@@ -98,7 +99,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Kopia Zapasowa__ -
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/)
-* __Tworzenie obiektów 3D__ - [Blender](https://blender.org/)
+* __Tworzenie i modyfikacja obiektów 3D__ - [Blender](https://blender.org/) -> [MeshLab](http://www.meshlab.net/) -> [Meshroom](https://alicevision.github.io/#meshroom)
 * __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
 * __Tworzenie Bootowalnego Pendriva__ - [Rufus](https://rufus.ie/) -> [Etcher](https://www.balena.io/etcher/) -> [MultiBootUSB](http://multibootusb.org/)
 * __Wyszukiwanie Duplikatów__ - [AntiDupl.Net](https://github.com/ermig1979/AntiDupl)
@@ -111,7 +112,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
-* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/) -> [OpenLoco](https://github.com/OpenLoco/OpenLoco)
+* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/)
 * __Mapy__ - [Marble](https://marble.kde.org/)
 * __Przeglądarki Plików__ - [DoubleCommander](https://doublecmd.sourceforge.io/)
 * __Modyfikacja GRUB__ -
@@ -119,6 +120,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Komputerowe wspomaganie projektowania__ - [QCad](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/)  -> [OpenSCAD](https://www.openscad.org/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
+* __Nauka Języków__ - [Anki](https://apps.ankiweb.net/)
 * __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
 
 ## Aplikacje na Androida
