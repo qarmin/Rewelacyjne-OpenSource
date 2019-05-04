@@ -19,7 +19,7 @@ Jest ona przeznaczona dla osób, które mają dość oprogramowania, którego pr
 Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, która umożliwia przeglądanie, modyfikowanie i uruchamianie jego kodu bez żadnych opłat, nawet dla użytku komercyjnego(MIT, GPL).
 
 W punktach 3-5 zawarte są programy, które posiadają graficzny interfejs użytkownika(GUI).  
-W punkcie 6 są pokazane systemy.
+W punkcie 6 są pokazane systemy.  
 W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
@@ -29,9 +29,9 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej się powyżej
 Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kategoriach wprowadza zbyt duży chaos, zastrzegam sobie prawo do usuwania tych programów, które w moim mniemaniu są zbyt mało popularne, funkcjonalne lub już nie wspierane.
 
 ## Jak Pomóc?
-* __Udostępniaj__ - Jeśli ktoś z twoich znajomych lub rodziny poszukuje programu, podeślij mu tą listę. Możesz również udostępniać ją na różnych forach, Facebooku, Twitterze czy nawet Wykopie.
-* __Proponuj__ - Jeśli używasz lub znasz program spełniający kryteria zawarte w poprzednim punkcie, to podziel się wiedzą o nim w zakładce __Issues__
-* __Twórz PR__ - Jeśli znalazłeś program pasujący do tego repozytorium, stwórz __Pull request__ go zawierający.
+* __Dziel się z innymi__ - Jeśli ktoś z twoich znajomych lub rodziny poszukuje programu, podeślij mu tą listę. Możesz również udostępniać ją na różnych forach, Facebooku, Twitterze czy nawet Wykopie.
+* __Zgłaszaj błędy i proponuj programy__ - Jeśli używasz lub znasz program spełniający kryteria zawarte w poprzednim punkcie, to podziel się wiedzą o nim w zakładce __Issues__
+* __Dodawaj programy i naprawiaj opisy__ - Jeśli chcesz naprawić błąd w liście lub dodać/usunąć program, to stwórz __Pull request__ z potrzebnymi zmianami.
 
 ## Aplikacje na Linuxa
 * __Przeglądarka Internetowa__ - [Firefox](https://www.mozilla.org/) -> [Iridium Browser](https://iridiumbrowser.de/) -> [Falkon](https://www.falkon.org/) -> [Tor Browser](https://www.torproject.org/) -> [Chromium](https://chromium.woolyss.com/download/) -> [Ungoogled-Chromium](https://github.com/Eloston/ungoogled-chromium) -> [Brave](https://github.com/brave/brave-browser/releases)
