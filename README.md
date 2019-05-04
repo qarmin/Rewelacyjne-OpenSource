@@ -1,25 +1,37 @@
 # Rewelacyjne OpenSource
 
+## Spis Treści
+1. [Informacje o repozytorium](#informacje-o-repozytorium)
+2. [Jak Pomóc?](#jak-pomóc)
+3. [Aplikacje na Linuxa](#aplikacje-na-linuxa)
+4. [Aplikacje na Windowsa](#aplikacje-na-windowsa)
+5. [Aplikacje na Androida](#aplikacje-na-androida)
+6. [Systemy](#systemy)
+7. [Aplikacje Konsolowe](#aplikacje-konsolowe)
+8. [Legenda](#legenda)
+
+## Informacje o repozytorium
 
 Ta lista zawiera darmowe, wolne oraz otwarte oprogramowanie na Windowsa, Linuxa oraz Androida.
 
-Jest ona przeznaczona dla osób, które mają dość oprogramowania, którego prawie nikt nie może zweryfikować, wszędobylskich reklam, wirusów oraz szpiegowania.
+Jest ona przeznaczona dla osób, które mają dość oprogramowania, którego prawie nikt nie może zweryfikować, wszędobylskich reklam, wirusów oraz szpiegowania.
 
+Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, która umożliwia przeglądanie, modyfikowanie i uruchamianie jego kodu bez żadnych opłat, nawet dla użytku komercyjnego(MIT, GPL).
 
-Podstawą do umieszczenia programu na tej liście jest posiadanie przez niego interfejsu graficznego, oraz licencji, która umożliwia przeglądanie, modyfikowanie i uruchamianie kodu bez żadnych opłat, nawet dla użytku komercyjnego(MIT, GPL).
+W punktach 3-5 zawarte są programy, które posiadają graficzny interfejs użytkownika(GUI).  
+W punkcie 6 są pokazane systemy.
+W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
 
-Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej zakładki __Issues__ i w razie możliwości dołączyć do danego programu link do kodu źródłowego(Android) lub strony głównej projektu(Linux i Windows). W razie znalezienia błędu w liście, również polecam skorzystanie z powyższej zakładki.
+Propozycje dotyczące programów proszę wpisywać do znajdującej się powyżej zakładki __Issues__ i w razie możliwości dołączyć do danego programu link do kodu źródłowego(Android) lub strony głównej projektu(Linux i Windows). W razie znalezienia błędu w liście, również polecam skorzystanie z powyższej zakładki.
 
+Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kategoriach wprowadza zbyt duży chaos, zastrzegam sobie prawo do usuwania tych programów, które w moim mniemaniu są zbyt mało popularne, funkcjonalne lub już nie wspierane.
 
-
-## Spis Treści
-1. [Aplikacje na Linuxa](#aplikacje-na-linuxa)
-2. [Aplikacje na Windowsa](#aplikacje-na-windowsa)
-3. [Aplikacje na Androida](#aplikacje-na-androida)
-4. [Systemy](#systemy)
-5. [Legenda](#legenda)
+## Jak Pomóc?
+* __Udostępniaj__ - Jeśli ktoś z twoich znajomych lub rodziny poszukuje programu, podeślij mu tą listę. Możesz również udostępniać ją na różnych forach, Facebooku, Twitterze czy nawet Wykopie.
+* __Proponuj__ - Jeśli używasz lub znasz program spełniający kryteria zawarte w poprzednim punkcie, to podziel się wiedzą o nim w zakładce __Issues__
+* __Twórz PR__ - Jeśli znalazłeś program pasujący do tego repozytorium, stwórz __Pull request__ go zawierający.
 
 ## Aplikacje na Linuxa
 * __Przeglądarka Internetowa__ - [Firefox](https://www.mozilla.org/) -> [Iridium Browser](https://iridiumbrowser.de/) -> [Falkon](https://www.falkon.org/) -> [Tor Browser](https://www.torproject.org/) -> [Chromium](https://chromium.woolyss.com/download/) -> [Ungoogled-Chromium](https://github.com/Eloston/ungoogled-chromium) -> [Brave](https://github.com/brave/brave-browser/releases)
@@ -158,7 +170,7 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __Inne__ -
 
 ## Systemy
-* __Ubuntu__ - [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/)
+* __Ubuntu__ - [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/) -> [Ubuntu Mate](https://ubuntu-mate.org/) -> [Ubuntu Server](https://www.ubuntu.com/download/server)
 * __Linux Mint__ - [Linux Mint XFCE](https://linuxmint.com/download.php) -> [Linux Mint MATE](https://linuxmint.com/download.php) -> [Linux Mint Cinnamon](https://linuxmint.com/download.php)
 * __Elementary OS__ - [Elementary OS](https://elementary.io/)
 * __Fedora__ - [Fedora](https://getfedora.org/)
@@ -170,8 +182,19 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej sie powyżej 
 * __MX Linux__ - [MX Linux](https://mxlinux.org/)
 * __ReactOS__ - [ReactOS](https://www.reactos.org/)
 * __HaikuOS__ - [HaikuOS](https://www.haiku-os.org/)
+* __Kali Linux__ - [Kali Linux](https://www.kali.org/)
+* __PureOS__ - [PureOS](https://www.pureos.net/)
+* __Zorin OS__ - [Zorin OS](http://www.zorin-os.com/)
+* __deepin__ - [deepin](https://deepin.org/)
+* __KDE Neon__ - [KDE Neon](https://neon.kde.org/)
+* __Tails__ - [Tails](https://tails.boum.org/)
+
+## Aplikacje Konsolowe
+
 
 ### Legenda:
-__(F)__ - Dostępny tylko w sklepie F-droid  
-__(GP)__ - Dostępny tylko w Google Play  
-__(0*0)__ - Nie posiada plików binarnych w formie do pobrania i aby ich używać należy je skompilować.
+__(F)__ - Dostępny tylko w sklepie F-droid (Dotyczy tylko Androida)  
+__(GP)__ - Dostępny tylko w Google Play (Dotyczy tylko Androida)  
+__(0*0)__ - Nie posiada plików binarnych w formie do pobrania i aby użyć programu należy skompilować jego kod źródłowy.  
+__(W)__ - Dostępny tylko na systemie Windows (Dotyczy tylko aplikacji konsolowych)  
+__(L)__ - Dostępny tylko na systemie Linux (Dotyczy tylko aplikacji konsolowych)  
