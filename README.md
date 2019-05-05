@@ -19,7 +19,7 @@ Jest ona przeznaczona dla osób, które mają dość oprogramowania, którego pr
 Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, która umożliwia przeglądanie, modyfikowanie i uruchamianie jego kodu bez żadnych opłat, nawet dla użytku komercyjnego(MIT, GPL).
 
 W punktach 3-5 zawarte są programy, które posiadają graficzny interfejs użytkownika(GUI).  
-W punkcie 6 są pokazane systemy.
+W punkcie 6 są pokazane systemy.  
 W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
@@ -29,9 +29,9 @@ Propozycje dotyczące programów proszę wpisywać do znajdującej się powyżej
 Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kategoriach wprowadza zbyt duży chaos, zastrzegam sobie prawo do usuwania tych programów, które w moim mniemaniu są zbyt mało popularne, funkcjonalne lub już nie wspierane.
 
 ## Jak Pomóc?
-* __Udostępniaj__ - Jeśli ktoś z twoich znajomych lub rodziny poszukuje programu, podeślij mu tą listę. Możesz również udostępniać ją na różnych forach, Facebooku, Twitterze czy nawet Wykopie.
-* __Proponuj__ - Jeśli używasz lub znasz program spełniający kryteria zawarte w poprzednim punkcie, to podziel się wiedzą o nim w zakładce __Issues__
-* __Twórz PR__ - Jeśli znalazłeś program pasujący do tego repozytorium, stwórz __Pull request__ go zawierający.
+* __Dziel się z innymi__ - Jeśli ktoś z twoich znajomych lub rodziny poszukuje programu, podeślij mu tą listę. Możesz również udostępniać ją na różnych forach, Facebooku, Twitterze czy nawet Wykopie.
+* __Zgłaszaj błędy i proponuj programy__ - Jeśli używasz lub znasz program spełniający kryteria zawarte w poprzednim punkcie, to podziel się wiedzą o nim w zakładce __Issues__
+* __Dodawaj programy i naprawiaj opisy__ - Jeśli chcesz naprawić błąd w liście lub dodać/usunąć program, to stwórz __Pull request__ z potrzebnymi zmianami.
 
 ## Aplikacje na Linuxa
 * __Przeglądarka Internetowa__ - [Firefox](https://www.mozilla.org/) -> [Iridium Browser](https://iridiumbrowser.de/) -> [Falkon](https://www.falkon.org/) -> [Tor Browser](https://www.torproject.org/) -> [Chromium](https://chromium.woolyss.com/download/) -> [Ungoogled-Chromium](https://github.com/Eloston/ungoogled-chromium) -> [Brave](https://github.com/brave/brave-browser/releases)
@@ -48,10 +48,10 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Organizacja i Edycja Zdjęć__ - [GIMP](https://www.gimp.org/) -> [Digikam](https://www.digikam.org/) -> [Darktable](https://www.darktable.org/) -> [Shotwell](https://wiki.gnome.org/Apps/Shotwell) -> [RAW Therapee](https://www.rawtherapee.com/) -> [gThumb](https://wiki.gnome.org/Apps/Gthumb)
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/) -> [Simple Screen Recorder](https://www.maartenbaert.be/simplescreenrecorder/) -> [Green Recorder](https://github.com/foss-project/green-recorder)
 * __Informacje o systemie__ - [HardInfo](https://help.ubuntu.com/community/HardInfo) -> [I-Nex](http://i-nex.linux.pl/) -> [CPU-X](https://github.com/X0rg/CPU-X/releases)
-* __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [File-Roller](https://en.wikipedia.org/wiki/File_Roller) -> [Engrampa](https://github.com/mate-desktop/engrampa)
+* __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/) -> [File-Roller](https://en.wikipedia.org/wiki/File_Roller) -> [Engrampa](https://github.com/mate-desktop/engrampa)
 * __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/)
 * __Obsługa płyt CD/DVD__ - [k3b](https://sourceforge.net/projects/k3b/) -> [Brasero](https://wiki.gnome.org/Apps/Brasero) -> [Grip](https://sourceforge.net/projects/grip/)
-* __Obsługa Dysków__ - [Gparted](https://gparted.org/) -> [Gnome Disk](https://wiki.gnome.org/Apps/Disks)
+* __Obsługa Dysków__ - [Gparted](https://gparted.org/) -> [Gnome Disk](https://wiki.gnome.org/Apps/Disks) -> [KDE Partition Manager](https://kde.org/applications/system/kdepartitionmanager/)
 * __Sprawdzanie zajętości dysku__ - [Baobab](http://www.marzocca.net/linux/baobab/) -> [Qdirstat](https://github.com/shundhammer/qdirstat)
 * __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> [QphotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
 * __Nocne Światło__ - [RedShift](http://jonls.dk/redshift/)
@@ -64,23 +64,24 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Tworzenie Bootowalnego Pendriva__ - [Etcher](https://www.balena.io/etcher/) -> [WoeUSB](https://github.com/slacka/WoeUSB) -> [MultiBootUSB](http://multibootusb.org/)
 * __Wyszukiwanie Duplikatów__ - [Fslint](https://www.pixelbeat.org/fslint/)
 * __Wyszukiwanie Pustych Folderów__ - [Fslint](https://www.pixelbeat.org/fslint/)
-* __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Urho3D](https://urho3d.github.io/)
+* __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Ogre3D](https://www.ogre3d.org/) -> [Urho3D](https://urho3d.github.io/) -> [GDevelop](https://gdevelop-app.com/) -> [Torque 3D](http://www.garagegames.com/products/torque-3d)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Sklep z grami__ - [itch.io](https://itch.io/app)
-* __Rozmowy VoIP__ - [Jami](https://jami.net/)
+* __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/)
 * __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
-* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/)
+* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/) -> [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom)
 * __Mapy__ - [Marble](https://marble.kde.org/) -> [GNOME Maps](https://wiki.gnome.org/Apps/Maps)
 * __Przeglądarki Plików__ - [DoubleCommander](https://doublecmd.sourceforge.io/) -> [Nemo](https://github.com/linuxmint/nemo) -> [Dolphin](https://kde.org/applications/system/dolphin/) -> [Caja](https://github.com/mate-desktop/caja) -> [Nautilus](https://gitlab.gnome.org/GNOME/nautilus) -> [QtFm](https://qtfm.eu/) -> [Thunar](https://docs.xfce.org/xfce/thunar/start) -> [Krusader](https://krusader.org/)
 * __Modyfikacja GRUB__ - [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) -> [Grub-Customizer](https://launchpad.net/grub-customizer)
 * __Telewizja Internetowa__ - [Kodi](https://kodi.tv/) -> [MythTV](https://www.mythtv.org/)
 * __Komputerowe wspomaganie projektowania__ - [QCad(0*0)](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/) -> [OpenSCAD](https://www.openscad.org/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
-* __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
-* __Nauka Języków__ - [Anki](https://apps.ankiweb.net/)
+* __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/) -> [Tiny Tiny RSS](https://tt-rss.org/)
+* __Nauka Języków__ - [Anki](https://apps.ankiweb.net/) -> [Mnemosyne](https://mnemosyne-proj.org/)
+* __VNC__ - [TigerVNC](https://tigervnc.org/) -> [Remmina](https://remmina.org/)
 * __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
 
 
@@ -100,12 +101,12 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Organizacja i Edycja Zdjęć__ - [GIMP](https://www.gimp.org/) -> [Digikam](https://www.digikam.org/) -> [Darktable](https://www.darktable.org/) -> [RAW Therapee](https://www.rawtherapee.com/)
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/)
 * __Informacje o systemie__ -
-* __Archiwizacja__ - [7-zip](https://www.7-zip.org/)
+* __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/)
 * __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/)
 * __Obsługa płyt CD/DVD__ -
 * __Obsługa Dysków__ -
 * __Sprawdzanie zajętości dysku__ - [WinDirStat](https://windirstat.net/)
-* __Odzyskiwanie plików__ -
+* __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> [QphotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
 * __Nocne Światło__ -
 * __Screenshoty__ - [GreenShoot](https://getgreenshot.org/) -> [Sharex](https://getsharex.com/) -> [ksnip](https://github.com/DamirPorobic/ksnip)
 * __Kopia Zapasowa__ -
@@ -116,15 +117,15 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Tworzenie Bootowalnego Pendriva__ - [Rufus](https://rufus.ie/) -> [Etcher](https://www.balena.io/etcher/) -> [MultiBootUSB](http://multibootusb.org/)
 * __Wyszukiwanie Duplikatów__ - [AntiDupl.Net](https://github.com/ermig1979/AntiDupl)
 * __Wyszukiwanie Pustych Folderów__ -
-* __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Xenko](https://xenko.com/) -> [Urho3D](https://urho3d.github.io/)
+* __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Xenko](https://xenko.com/) -> [Ogre3D](https://www.ogre3d.org/) -> [Urho3D](https://urho3d.github.io/) -> [GDevelop](https://gdevelop-app.com/) -> [Torque 3D](http://www.garagegames.com/products/torque-3d)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Sklep z grami__ - [itch.io](https://itch.io/app)
-* __Rozmowy VoIP__ - [Jami](https://jami.net/)
+* __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/)
 * __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
-* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/)
+* __Gry__ - [0 A.D.](https://play0ad.com/) -> [Battle for Wesnoth](https://wesnoth.org/) -> [Unknown Horizons](http://unknown-horizons.org/) -> [SuperTuxKart](https://supertuxkart.net/Main_Page) -> [Warzone 2100](http://wz2100.net/) -> [Zero-K](https://zero-k.info/) -> [Endless Sky](https://endless-sky.github.io/) -> [Hedgewars](https://www.hedgewars.org/) -> [Enemy Territory - Legacy](https://www.etlegacy.com/) -> [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom)
 * __Mapy__ - [Marble](https://marble.kde.org/)
 * __Przeglądarki Plików__ - [DoubleCommander](https://doublecmd.sourceforge.io/)
 * __Modyfikacja GRUB__ -
@@ -132,7 +133,8 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Komputerowe wspomaganie projektowania__ - [QCad](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/)  -> [OpenSCAD](https://www.openscad.org/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
-* __Nauka Języków__ - [Anki](https://apps.ankiweb.net/)
+* __Nauka Języków__ - [Anki](https://apps.ankiweb.net/) -> [Mnemosyne](https://mnemosyne-proj.org/)
+* __VNC__ - [TigerVNC](https://tigervnc.org/) -> [Ultra VNC](http://www.uvnc.com/)
 * __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
 
 ## Aplikacje na Androida
@@ -165,7 +167,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Video__ - [VLC](https://code.videolan.org/videolan/vlc-android)
 * __Wykop__ - [Wykop Mobilny(GP)](https://github.com/feelfreelinux/WykopMobilny)
 * __YouTube__ - [SkyTube](http://skytube-app.com/)
-* __Zarządzanie Hasłami__ - [Bitwarden(GP)](https://github.com/bitwarden/mobile)
+* __Zarządzanie Hasłami__ - [Bitwarden(GP)](https://github.com/bitwarden/mobile) -> [KeePassDroid(GP)](https://github.com/bpellin/keepassdroid) -> [KeePass2Android(GP)](https://github.com/PhilippC/keepass2android)
 * __Zegar__ - [Simple Mobile Clock](https://github.com/SimpleMobileTools/Simple-CLock)
 * __Inne__ -
 
