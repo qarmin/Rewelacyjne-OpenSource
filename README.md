@@ -58,7 +58,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> [QphotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
 * __Nocne Światło__ - [RedShift](http://jonls.dk/redshift/)
 * __Screenshoty__ - [Flameshot](https://github.com/lupoDharkael/flameshot) -> [ksnip](https://github.com/DamirPorobic/ksnip) -> [Shutter](https://launchpad.net/shutter)
-* __Kopia Zapasowa__ - [Timeshift](https://github.com/teejee2008/timeshift) -> [Deja-Dup](https://wiki.gnome.org/Apps/DejaDup) -> [Simple Backup Suite](https://help.ubuntu.com/community/BackupYourSystem/SimpleBackupSuite) -> [Grsync](http://www.opbyte.it/grsync/)
+* __Kopia Zapasowa__ - [Timeshift](https://github.com/teejee2008/timeshift) -> [Deja-Dup](https://wiki.gnome.org/Apps/DejaDup) -> [Simple Backup Suite](https://help.ubuntu.com/community/BackupYourSystem/SimpleBackupSuite) -> [Grsync](http://www.opbyte.it/grsync/) ->  [Duplicati](https://www.duplicati.com/)
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/) -> [Karbon](https://www.calligra.org/karbon/)
 * __Tworzenie i modyfikacja obiektów 3D__ - [Blender](https://blender.org/) -> [MeshLab](http://www.meshlab.net/) -> [Meshroom](https://alicevision.github.io/#meshroom)
@@ -111,7 +111,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> [QphotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
 * __Nocne Światło__ -
 * __Screenshoty__ - [GreenShoot](https://getgreenshot.org/) -> [Sharex](https://getsharex.com/) -> [ksnip](https://github.com/DamirPorobic/ksnip)
-* __Kopia Zapasowa__ -
+* __Kopia Zapasowa__ - [Duplicati](https://www.duplicati.com/)
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/)
 * __Tworzenie i modyfikacja obiektów 3D__ - [Blender](https://blender.org/) -> [MeshLab](http://www.meshlab.net/) -> [Meshroom](https://alicevision.github.io/#meshroom)
@@ -196,7 +196,13 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 ## Aplikacje Konsolowe
 
 ## Dodatki do Przeglądarki
-* __Blokowanie Reklam__ - [Ublock Origin](https://github.com/gorhill/uBlock)
+* __Blokowanie Reklam__ - [Ublock Origin](https://github.com/gorhill/uBlock) -> [Adblock Plus](https://adblockplus.org/)
+* __Ciemny Motyw__ - [Dark Reader](https://darkreader.org/)
+* __Szyfrowanie Stron__ - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* __Dodatki do Githuba__ - [Octotree](https://github.com/ovity/octotree) -> [Refinied-Github](https://github.com/sindresorhus/refined-github)
+* __Dodatki do Twittera__ - [Refinied-Twitter](https://github.com/sindresorhus/refined-twitter)
+* __Dodatki do Gmaila__ - [Simplify](https://github.com/leggett/simplify)
+* __Proste Captcha__ - [Buster](https://github.com/dessant/buster)
 
 ### Legenda:
 __(F)__ - Dostępny tylko w sklepie F-droid (Dotyczy tylko Androida)  
