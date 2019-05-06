@@ -8,7 +8,8 @@
 5. [Aplikacje na Androida](#aplikacje-na-androida)
 6. [Systemy](#systemy)
 7. [Aplikacje Konsolowe](#aplikacje-konsolowe)
-8. [Legenda](#legenda)
+8. [Dodatki do Przeglądarki](#dodatki-do-przeglądarki)
+9. [Legenda](#legenda)
 
 ## Informacje o repozytorium
 
@@ -19,8 +20,9 @@ Jest ona przeznaczona dla osób, które mają dość oprogramowania, którego pr
 Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, która umożliwia przeglądanie, modyfikowanie i uruchamianie jego kodu bez żadnych opłat, nawet dla użytku komercyjnego(MIT, GPL).
 
 W punktach 3-5 zawarte są programy, które posiadają graficzny interfejs użytkownika(GUI).  
-W punkcie 6 są pokazane systemy.  
-W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.
+W punkcie 6 są pokazane systemy operacyjne.  
+W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.  
+W punkcie 8 zawarte są dodatki do przeglądarek bazujących na kodzie Firefoxa oraz Chromium.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
 
@@ -193,6 +195,8 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 
 ## Aplikacje Konsolowe
 
+## Dodatki do Przeglądarki
+* __Blokowanie Reklam__ - [Ublock Origin](https://github.com/gorhill/uBlock)
 
 ### Legenda:
 __(F)__ - Dostępny tylko w sklepie F-droid (Dotyczy tylko Androida)  
@@ -200,3 +204,5 @@ __(GP)__ - Dostępny tylko w Google Play (Dotyczy tylko Androida)
 __(0*0)__ - Nie posiada plików binarnych w formie do pobrania i aby użyć programu należy skompilować jego kod źródłowy.  
 __(W)__ - Dostępny tylko na systemie Windows (Dotyczy tylko aplikacji konsolowych)  
 __(L)__ - Dostępny tylko na systemie Linux (Dotyczy tylko aplikacji konsolowych)  
+__(Fi)__ - Dostępny tylko na przeglądarce Firefox (Dotyczy tylko dodatków do przeglądarki)  
+__(Ch)__ - Dostępny tylko na przeglądarkach bazujących na Chromium (Dotyczy tylko dodatków do przeglądarki)  
