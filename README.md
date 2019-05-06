@@ -22,7 +22,7 @@ Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, któ
 W punktach 3-5 zawarte są programy, które posiadają graficzny interfejs użytkownika(GUI).  
 W punkcie 6 są pokazane systemy operacyjne.  
 W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.  
-W punkcie 8 zawarte są dodatki do przeglądarek bazujących na kodzie Firefoxa oraz Chromium.
+W punkcie 8 zawarte są dodatki do przeglądarek bazujących na kodzie Firefoxa oraz Chromium, preferowane są dodatki działające na obu powyższych przeglądarkach.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
 
@@ -176,22 +176,23 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 ## Systemy
 * __Ubuntu__ - [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/) -> [Ubuntu Mate](https://ubuntu-mate.org/) -> [Ubuntu Server](https://www.ubuntu.com/download/server)
 * __Linux Mint__ - [Linux Mint XFCE](https://linuxmint.com/download.php) -> [Linux Mint MATE](https://linuxmint.com/download.php) -> [Linux Mint Cinnamon](https://linuxmint.com/download.php)
+* __Arch__ - [Arch](https://www.archlinux.org/)
+* __CentOS__ - [CentOS](https://www.centos.org/)
+* __Debian__ - [Debian](https://www.debian.org/index.pl.html)
 * __Elementary OS__ - [Elementary OS](https://elementary.io/)
 * __Fedora__ - [Fedora](https://getfedora.org/)
-* __openSUSE__ - [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) -> [openSUSE Leap](https://software.opensuse.org/distributions/leap)
-* __Debian__ - [Debian](https://www.debian.org/index.pl.html)
-* __CentOS__ - [CentOS](https://www.centos.org/)
-* __Arch__ - [Arch](https://www.archlinux.org/)
-* __Manjaro__ - [Manjaro](https://manjaro.org/)
-* __MX Linux__ - [MX Linux](https://mxlinux.org/)
-* __ReactOS__ - [ReactOS](https://www.reactos.org/)
-* __HaikuOS__ - [HaikuOS](https://www.haiku-os.org/)
+* __KDE Neon__ - [KDE Neon](https://neon.kde.org/)
 * __Kali Linux__ - [Kali Linux](https://www.kali.org/)
+* __MX Linux__ - [MX Linux](https://mxlinux.org/)
+* __Manjaro__ - [Manjaro](https://manjaro.org/)
 * __PureOS__ - [PureOS](https://www.pureos.net/)
+* __Tails__ - [Tails](https://tails.boum.org/)
 * __Zorin OS__ - [Zorin OS](http://www.zorin-os.com/)
 * __deepin__ - [deepin](https://deepin.org/)
-* __KDE Neon__ - [KDE Neon](https://neon.kde.org/)
-* __Tails__ - [Tails](https://tails.boum.org/)
+* __openSUSE__ - [openSUSE Tumbleweed](https://software.opensuse.org/distributions/tumbleweed) -> [openSUSE Leap](https://software.opensuse.org/distributions/leap)
+
+* __HaikuOS__ - [HaikuOS](https://www.haiku-os.org/)
+* __ReactOS__ - [ReactOS](https://www.reactos.org/)
 
 ## Aplikacje Konsolowe
 
