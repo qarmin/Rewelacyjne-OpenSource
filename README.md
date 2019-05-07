@@ -70,7 +70,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Sklep z grami__ - [itch.io](https://itch.io/app)
 * __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/)
-* __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/)
+* __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/) -> [NetBeans](https://netbeans.org/) -> [Geany](https://www.geany.org/) -> [CodeBlocks](http://codeblocks.org/)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
@@ -84,7 +84,11 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/) -> [Tiny Tiny RSS](https://tt-rss.org/)
 * __Nauka Języków__ - [Anki](https://apps.ankiweb.net/) -> [Mnemosyne](https://mnemosyne-proj.org/)
 * __VNC__ - [TigerVNC](https://tigervnc.org/) -> [Remmina](https://remmina.org/)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
+* __FTP__ - [FileZilla](https://filezilla-project.org/)
+* __Konwertowanie Video__ - [Handbrake](https://alternativeto.net/software/handbrake/)
+* __E-Booki__ - [Calibre](https://calibre-ebook.com/)
+* __GIT__ - [gitg](https://wiki.gnome.org/Apps/Gitg) -> [Git Cola](https://git-cola.github.io/)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/)
 
 
 
@@ -104,7 +108,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/)
 * __Informacje o systemie__ -
 * __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/)
-* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/)
+* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/) -> [PicoTorrent](https://picotorrent.org/)
 * __Obsługa płyt CD/DVD__ -
 * __Obsługa Dysków__ -
 * __Sprawdzanie zajętości dysku__ - [WinDirStat](https://windirstat.net/)
@@ -123,7 +127,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Sklep z grami__ - [itch.io](https://itch.io/app)
 * __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/)
-* __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/)
+* __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/) -> [NetBeans](https://netbeans.org/) -> [Geany](https://www.geany.org/) -> [CodeBlocks](http://codeblocks.org/)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
@@ -137,7 +141,11 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
 * __Nauka Języków__ - [Anki](https://apps.ankiweb.net/) -> [Mnemosyne](https://mnemosyne-proj.org/)
 * __VNC__ - [TigerVNC](https://tigervnc.org/) -> [Ultra VNC](http://www.uvnc.com/)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt)
+* __FTP__ - [FileZilla](https://filezilla-project.org/) -> [WinSCP](https://winscp.net/) -> [Cyberduck](https://cyberduck.io/)
+* __Konwertowanie Video__ - [Handbrake](https://alternativeto.net/software/handbrake/) -> [VidCoder](http://vidcoder.net/)
+* __E-Booki__ - [Calibre](https://calibre-ebook.com/)
+* __GIT__ - [gitg](https://wiki.gnome.org/Apps/Gitg) -> [Git Cola](https://git-cola.github.io/) -> [TortoiseGit](https://tortoisegit.org/) -> [Github Desktop](https://desktop.github.com/)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/)
 
 ## Aplikacje na Androida
 * __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera)
