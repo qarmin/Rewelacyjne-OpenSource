@@ -204,7 +204,6 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __PureOS__ - [PureOS](https://www.pureos.net/)
 * __Tails__ - [Tails](https://tails.boum.org/)
 * __Zorin OS__ - [Zorin OS](http://www.zorin-os.com/)
-
 * __HaikuOS__ - [HaikuOS](https://www.haiku-os.org/)
 * __ReactOS__ - [ReactOS](https://www.reactos.org/)
 
