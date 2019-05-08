@@ -51,7 +51,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/) -> [Simple Screen Recorder](https://www.maartenbaert.be/simplescreenrecorder/) -> [Green Recorder](https://github.com/foss-project/green-recorder)
 * __Informacje o systemie__ - [HardInfo](https://help.ubuntu.com/community/HardInfo) -> [I-Nex](http://i-nex.linux.pl/) -> [CPU-X](https://github.com/X0rg/CPU-X/releases)
 * __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/) -> [File-Roller](https://en.wikipedia.org/wiki/File_Roller) -> [Engrampa](https://github.com/mate-desktop/engrampa)
-* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/)
+* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Transmission](https://transmissionbt.com/)
 * __Obsługa płyt CD/DVD__ - [k3b](https://sourceforge.net/projects/k3b/) -> [Brasero](https://wiki.gnome.org/Apps/Brasero) -> [Grip](https://sourceforge.net/projects/grip/)
 * __Obsługa Dysków__ - [Gparted](https://gparted.org/) -> [Gnome Disk](https://wiki.gnome.org/Apps/Disks) -> [KDE Partition Manager](https://kde.org/applications/system/kdepartitionmanager/)
 * __Sprawdzanie zajętości dysku__ - [Baobab](http://www.marzocca.net/linux/baobab/) -> [Qdirstat](https://github.com/shundhammer/qdirstat)
@@ -69,7 +69,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Ogre3D](https://www.ogre3d.org/) -> [Urho3D](https://urho3d.github.io/) -> [GDevelop](https://gdevelop-app.com/) -> [Torque 3D](http://www.garagegames.com/products/torque-3d)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Sklep z grami__ - [itch.io](https://itch.io/app)
-* __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/)
+* __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/) -> [Mumble](https://wiki.mumble.info/)
 * __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/) -> [NetBeans](https://netbeans.org/) -> [Geany](https://www.geany.org/) -> [CodeBlocks](http://codeblocks.org/)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
@@ -88,7 +88,8 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Konwertowanie Video__ - [Handbrake](https://alternativeto.net/software/handbrake/)
 * __E-Booki__ - [Calibre](https://calibre-ebook.com/)
 * __GIT__ - [gitg](https://wiki.gnome.org/Apps/Gitg) -> [Git Cola](https://git-cola.github.io/)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/)
+* __Emulacja__ - [RPCS3](https://rpcs3.net/) -> [Dosbox](https://www.dosbox.com/) -> [PCSX2](https://pcsx2.net/) -> [RetroArch](http://www.retroarch.com/) -> [Dolphin](https://pl.dolphin-emu.org) -> [PPSSPP](https://www.ppsspp.org/) -> [XQEMU](https://xqemu.com/)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/) -> [Lutris(Zarządzanie biblioteką gier/programów)](https://lutris.net/)
 
 
 
@@ -108,7 +109,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/)
 * __Informacje o systemie__ -
 * __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/)
-* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/) -> [PicoTorrent](https://picotorrent.org/)
+* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Transmission](https://transmissionbt.com/) -> [PicoTorrent](https://picotorrent.org/)
 * __Obsługa płyt CD/DVD__ -
 * __Obsługa Dysków__ -
 * __Sprawdzanie zajętości dysku__ - [WinDirStat](https://windirstat.net/)
@@ -126,7 +127,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Xenko](https://xenko.com/) -> [Ogre3D](https://www.ogre3d.org/) -> [Urho3D](https://urho3d.github.io/) -> [GDevelop](https://gdevelop-app.com/) -> [Torque 3D](http://www.garagegames.com/products/torque-3d)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Sklep z grami__ - [itch.io](https://itch.io/app)
-* __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/)
+* __Rozmowy przez intenet__ - [Jami](https://jami.net/) -> [Signal](https://signal.org/) -> [Tox](https://tox.chat/) -> [Pidgin](https://www.pidgin.im/) -> [Mumble](https://wiki.mumble.info/)
 * __IDE__ - [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) -> [QT Creator](https://github.com/qt-creator/qt-creator) -> [Eclipse](https://www.eclipse.org/) -> [KDevelop](https://www.kdevelop.org/) -> [VS Codium](https://vscodium.com/) -> [Leksah](http://leksah.org/) -> [NetBeans](https://netbeans.org/) -> [Geany](https://www.geany.org/) -> [CodeBlocks](http://codeblocks.org/)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
@@ -145,7 +146,8 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Konwertowanie Video__ - [Handbrake](https://alternativeto.net/software/handbrake/) -> [VidCoder](http://vidcoder.net/)
 * __E-Booki__ - [Calibre](https://calibre-ebook.com/)
 * __GIT__ - [gitg](https://wiki.gnome.org/Apps/Gitg) -> [Git Cola](https://git-cola.github.io/) -> [TortoiseGit](https://tortoisegit.org/) -> [Github Desktop](https://desktop.github.com/)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/)
+* __Emulacja__ - [RPCS3](https://rpcs3.net/) -> [Dosbox](https://www.dosbox.com/) -> [PCSX2](https://pcsx2.net/) -> [RetroArch](http://www.retroarch.com/) -> [Dolphin](https://pl.dolphin-emu.org) -> [PPSSPP](https://www.ppsspp.org/) -> [XQEMU](https://xqemu.com/) -> [xenia](https://xenia.jp/)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/)
 
 ## Aplikacje na Androida
 * __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera)
@@ -212,6 +214,10 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Dodatki do Twittera__ - [Refinied-Twitter](https://github.com/sindresorhus/refined-twitter)
 * __Dodatki do Gmaila__ - [Simplify](https://github.com/leggett/simplify)
 * __Proste Captcha__ - [Buster](https://github.com/dessant/buster)
+
+## Programy nierozwijane
+* __Torrenty__ - [Deluge(2017)](https://deluge-torrent.org/)
+* __Zarządzanie Hasłami__ - [KeepassX(2016)](https://github.com/keepassx/keepassx)
 
 ### Legenda:
 __(F)__ - Dostępny tylko w sklepie F-droid (Dotyczy tylko Androida)  
