@@ -158,8 +158,8 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/)
 
 ## Aplikacje na Androida
-* __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera)
-* __Blokowanie Reklam__ - [Blokada](https://blokada.org/)
+* __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera) -> [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) -> [FreeDcam](https://github.com/KillerInk/FreeDcam) -> [Vector Camera](https://github.com/dozingcat/VectorCamera) -> [Ascii Cam(F)](https://github.com/dozingcat/AsciiCam)
+* __Blokowanie Reklam__ - [Blokada](https://blokada.org/) -> [AdAway(F)](https://github.com/AdAway/AdAway)
 * __Facebook__ - [FaceSlim(F)](https://github.com/indywidualny/FaceSlim)
 * __Firewall__ - [NetGuard(GP)](https://github.com/M66B/NetGuard/) -> [AFWall+](https://github.com/ukanth/afwall/)
 * __Galeria Zdjęć__ - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) -> [LeafPic](https://gitlab.com/HoraApps/LeafPic)
