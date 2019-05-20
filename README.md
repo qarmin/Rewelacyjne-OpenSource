@@ -28,7 +28,7 @@ W punkcie 9 zawarte są programy, które już nie są rozwijane.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
 
-Propozycje dotyczące programów proszę wpisywać do znajdującej się powyżej zakładki __Issues__ i w razie możliwości dołączyć do danego programu link do kodu źródłowego(Android) lub strony głównej projektu(Linux i Windows). W razie znalezienia błędu w liście, również polecam skorzystanie z powyższej zakładki.
+Propozycje dotyczące programów proszę wpisywać do znajdującej się powyżej zakładki __Issues__ i w razie możliwości dołączyć do danego programu link do kodu źródłowego(Android) ponieważ zwykle są tam linki do F-Droid oraz Google Play lub strony głównej projektu(Linux i Windows). W razie znalezienia błędu w liście, również polecam skorzystanie z powyższej zakładki.
 
 Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kategoriach wprowadza zbyt duży chaos, zastrzegam sobie prawo do usuwania tych programów, które w moim mniemaniu są zbyt mało popularne, funkcjonalne lub już nie wspierane.
 
@@ -89,6 +89,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Transmission](https://transmissionbt.com/)
 * __Tworzenie Bootowalnego Pendriva__ - [Etcher](https://www.balena.io/etcher/) -> [WoeUSB](https://github.com/slacka/WoeUSB) -> [MultiBootUSB](http://multibootusb.org/)
 * __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Ogre3D](https://www.ogre3d.org/) -> [Urho3D](https://urho3d.github.io/) -> [GDevelop](https://gdevelop-app.com/) -> [Torque 3D](http://www.garagegames.com/products/torque-3d)
+* __Tworzenie skrótów na pulpicie__ - [Arronax](http://www.florian-diesch.de/software/arronax/)
 * __Tworzenie i modyfikacja obiektów 3D__ - [Blender](https://blender.org/) -> [MeshLab](http://www.meshlab.net/) -> [Meshroom](https://alicevision.github.io/#meshroom)
 * __VNC__ - [TigerVNC](https://tigervnc.org/) -> [Remmina](https://remmina.org/)
 * __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
@@ -158,38 +159,48 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/)
 
 ## Aplikacje na Androida
-* __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera) -> [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) -> [FreeDcam](https://github.com/KillerInk/FreeDcam) -> [Vector Camera](https://github.com/dozingcat/VectorCamera) -> [Ascii Cam(F)](https://github.com/dozingcat/AsciiCam)
+* __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera) -> [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) -> [FreeDcam](https://github.com/KillerInk/FreeDcam) -> [Vector Camera](https://github.com/dozingcat/VectorCamera) -> [Ascii Cam(F)](https://github.com/dozingcat/AsciiCam) -> [Open Note Scanner](https://github.com/ctodobom/OpenNoteScanner)
 * __Blokowanie Reklam__ - [Blokada](https://blokada.org/) -> [AdAway(F)](https://github.com/AdAway/AdAway)
-* __Facebook__ - [FaceSlim(F)](https://github.com/indywidualny/FaceSlim)
+* __Czyszczenie Systemu__ - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
+* __Czytanie Książek__ - [Book Reader(F)](https://gitlab.com/axet/android-book-reader/tree/HEAD)
+* __Facebook__ - [FaceSlim(F)](https://github.com/indywidualny/FaceSlim) -> [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook)
 * __Firewall__ - [NetGuard(GP)](https://github.com/M66B/NetGuard/) -> [AFWall+](https://github.com/ukanth/afwall/)
-* __Galeria Zdjęć__ - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) -> [LeafPic](https://gitlab.com/HoraApps/LeafPic)
-* __Gry__ - [2048](https://github.com/uberspot/2048-android)
+* __Galeria Zdjęć__ - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) -> [LeafPic](https://gitlab.com/HoraApps/LeafPic) -> [Secure Photo Viewer](https://github.com/Somethingweirdhere/Secure-Photo-Viewer)
+* __Github__ - [OpenHub(GP)](https://github.com/ThirtyDegreesRay/OpenHub)
+* __Gry__ - [2048](https://github.com/uberspot/2048-android) -> [SuperTuxKart(F)](https://github.com/supertuxkart/stk-code) -> [Simple Solitaire Collection](https://github.com/TobiasBielefeld/Simple-Solitaire)
 * __Kalendarz__ - [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+* __Kalkulator__ - [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) -> [Calculator(F)](https://f-droid.org/en/packages/com.xlythe.calculator.material/) -> [RPN(F)](https://f-droid.org/en/packages/com.ath0.rpn/)
 * __Klawiatura__ - [Simple Keyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
 * __Komunikatory__ - [Riot.im](https://github.com/vector-im/riot-android)
 * __Kontakty__ - [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts)
 * __Latarka__ - [Simple FlashLight](https://github.com/SimpleMobileTools/Simple-Flashlight)
-* __Launcher__ - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) -> [LawnChair](https://lawnchair.app/) -> [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher)
+* __Launcher__ - [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) -> [LawnChair](https://lawnchair.app/) -> [Simple App Launcher](https://github.com/SimpleMobileTools/Simple-App-Launcher) -> [KISS](https://github.com/Neamar/KISS) -> [Hg Launcher](https://github.com/vaginessa/HgLauncher) -> [Slim Launcher](https://github.com/sduduzog/slim-launcher) -> [Senior Launcher](https://f-droid.org/en/packages/de.nodomain.tobihille.seniorlauncher/) -> [Keikai Launcher](https://f-droid.org/packages/com.anpmech.launcher/)
 * __Linux na telefonie__ - [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
 * __Lista Zadań__ - [Tasks](https://github.com/tasks/tasks) -> [OpenTasks](https://github.com/dmfs/opentasks) -> [Markor](https://f-droid.org/en/packages/net.gsantner.markor/)
+* __Informacje o systemie__ - [CPU Stats(F)](https://f-droid.org/en/packages/jp.takke.cpustats/) -> [Disk Usage](https://f-droid.org/packages/com.google.android.diskusage/) -> [CPU Info](https://github.com/kamgurgul/cpu-info)
 * __Mapy__ - [MAPS.Me](https://maps.me/en/download/)
-* __Muzyka__ - [Vanilla Music(F)](https://github.com/vanilla-music/vanilla)
+* __Nagrywanie Dźwięku__ - [Audio Recorder(F)](https://f-droid.org/en/packages/com.github.axet.audiorecorder/) -> [Sound Recorder](https://github.com/dkim0419/SoundRecorder)
 * __Notatki__ - [Orgzly](https://github.com/orgzly/orgzly-android) -> [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) -> [Editor(F)](https://github.com/billthefarmer/editor) -> [Markor](https://f-droid.org/en/packages/net.gsantner.markor/)
-* __Poczta__ - [K-9 Mail](https://k9mail.github.io/)
+* __Odtwarzacz Muzyki__ - [Music Player GO](https://github.com/enricocid/Music-Player-GO) -> [Vanilla Music(F)](https://github.com/vanilla-music/vanilla) -> [Symphony](https://f-droid.org/en/packages/org.fitchfamily.android.symphony/) -> [Phonograph](https://github.com/kabouzeid/Phonograph) -> [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) -> [Vinyl](https://github.com/AdrienPoupa/VinylMusicPlayer)
+* __Poczta/Email__ - [K-9 Mail](https://k9mail.github.io/) -> [FairMail](https://github.com/M66B/open-source-email) -> [Simple Email](https://f-droid.org/packages/org.dystopia.email)
 * __Przeglądarka Dokumentów__ - [Document Viewer](https://github.com/SufficientlySecure/document-viewer) -> [LibreOffice Viewer](https://f-droid.org/en/packages/org.documentfoundation.libreoffice/)
 * __Przeglądarka Internetowa__ - [Firefox Lite](https://github.com/mozilla-tw/FirefoxLite) -> [Firefox Klar/Focus](https://github.com/mozilla-mobile/focus-android) -> [DuckDuckGo](https://github.com/duckduckgo/Android) ->
-* __Przeglądarka Plików__ - [Amaze](https://github.com/TeamAmaze/AmazeFileManager) -> [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager)
+* __Przeglądarka Plików__ - [Dir](https://github.com/veniosg/Dir) -> [Amaze](https://github.com/TeamAmaze/AmazeFileManager) -> [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) -> [File Manager(F)](https://f-droid.org/en/packages/com.github.axet.filemanager/) -> [Ghost Commander(F)](https://f-droid.org/en/packages/com.ghostsq.commander/)
+* __Radio__ - [RadioDroid](https://github.com/segler-alex/RadioDroid)
 * __Reddit__ - [Slide](https://github.com/ccrama/Slide)
+* __Rozmowy przez intenet__ - [Jami](https://jami.net/)
 * __Rysowanie__ - [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw)
 * __Sklep z Aplikacjami__ - [F-Droid(F)](https://gitlab.com/fdroid/fdroidclient) -> [G-Droid(F)](https://gitlab.com/gdroid/gdroidclient/) -> [M-Droid(F](https://github.com/SkyzohKey/M-Droid)
-* __Torrenty__ - [Torrent Client(F)](https://gitlab.com/axet/android-torrent-client/tree/HEAD)
+* __Tłumaczenie tekstów__ - [OpenL(F)](https://f-droid.org/en/packages/com.anthony.deepl.openl/)
+* __Torrenty__ - [Torrent Client(F)](https://gitlab.com/axet/android-torrent-client/tree/HEAD) -> [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)
 * __Twitter__ - [SlimSocial for Twitter](https://github.com/rignaneseleo/SlimSocial-for-Twitter)
+* __Udostępnianie plików__ - [TrebleShot](https://github.com/genonbeta/TrebleShot)
 * __Video__ - [VLC](https://code.videolan.org/videolan/vlc-android)
 * __Wykop__ - [Wykop Mobilny(GP)](https://github.com/feelfreelinux/WykopMobilny)
-* __YouTube__ - [SkyTube](http://skytube-app.com/)
-* __Zarządzanie Hasłami__ - [Bitwarden(GP)](https://github.com/bitwarden/mobile) -> [KeePassDroid(GP)](https://github.com/bpellin/keepassdroid) -> [KeePass2Android(GP)](https://github.com/PhilippC/keepass2android)
+* __YouTube__ - [SkyTube](http://skytube-app.com/) -> [WebTube(F)](https://github.com/martykan/webTube)
+* __Zarządzanie Hasłami__ - [KeePass DX](https://www.keepassdx.com/) -> [Bitwarden(GP)](https://github.com/bitwarden/mobile) -> [KeePassDroid(GP)](https://github.com/bpellin/keepassdroid) -> [KeePass2Android(GP)](https://github.com/PhilippC/keepass2android)
 * __Zegar__ - [Simple Mobile Clock](https://github.com/SimpleMobileTools/Simple-CLock)
-* __Inne__ -
+* __Inne__ - [Termbot](https://github.com/open-keychain/termbot)
 
 ## Systemy
 * __Ubuntu__ - [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/) -> [Ubuntu Mate](https://ubuntu-mate.org/) -> [Ubuntu Server](https://www.ubuntu.com/download/server)
@@ -227,7 +238,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 
 ## Programy nierozwijane
 * __Odtwarzacz Muzyki__ - [Banshee(2014)](http://www.banshee-project.org/)
-* __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Pinta(2015)][https://pinta-project.com/pintaproject/pinta/]
+* __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Pinta(2015)](https://pinta-project.com/pintaproject/pinta/)
 * __Torrenty__ - [Deluge(2017)](https://deluge-torrent.org/)
 * __Zarządzanie Hasłami__ - [KeepassX(2016)](https://github.com/keepassx/keepassx)
 
