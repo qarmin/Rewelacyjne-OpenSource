@@ -23,7 +23,7 @@ Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, któ
 W punktach 3-5 zawarte są programy, które posiadają graficzny interfejs użytkownika(GUI).  
 W punkcie 6 są pokazane systemy operacyjne.  
 W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.  
-W punkcie 8 zawarte są dodatki do przeglądarek bazujących na kodzie Firefoxa oraz Chromium, preferowane są dodatki działające na obu powyższych przeglądarkach.
+W punkcie 8 zawarte są dodatki do przeglądarek bazujących na kodzie Firefoxa oraz Chromium, preferowane są dodatki działające na obu powyższych przeglądarkach.  
 W punkcie 9 zawarte są programy, które już nie są rozwijane.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
@@ -36,6 +36,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Dziel się z innymi__ - Jeśli ktoś z twoich znajomych lub rodziny poszukuje programu, podeślij mu tą listę. Możesz również udostępniać ją na różnych forach, Facebooku, Twitterze czy nawet Wykopie.
 * __Zgłaszaj błędy i proponuj programy__ - Jeśli używasz lub znasz program spełniający kryteria zawarte w poprzednim punkcie, to podziel się wiedzą o nim w zakładce __Issues__
 * __Dodawaj programy i naprawiaj opisy__ - Jeśli chcesz naprawić błąd w liście lub dodać/usunąć program, to stwórz __Pull request__ z potrzebnymi zmianami.
+* __Wspieraj pieniężnie__ - Jeśli chcesz podziękować twórcom poniższych programów za trud ich tworzenia, możesz wesprzeć ich pieniężnie, dzięki czemu będą mogli ciągle pracować przy swoich projetkach. 
 
 ## Aplikacje na Linuxa
 * __Antywirus__ - [Clamtk](https://dave-theunsub.github.io/clamtk/)
