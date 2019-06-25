@@ -36,7 +36,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Dziel się z innymi__ - Jeśli ktoś z twoich znajomych lub rodziny poszukuje programu, podeślij mu tą listę. Możesz również udostępniać ją na różnych forach, Facebooku, Twitterze czy nawet Wykopie.
 * __Zgłaszaj błędy i proponuj programy__ - Jeśli używasz lub znasz program spełniający kryteria zawarte w poprzednim punkcie, to podziel się wiedzą o nim w zakładce __Issues__
 * __Dodawaj programy i naprawiaj opisy__ - Jeśli chcesz naprawić błąd w liście lub dodać/usunąć program, to stwórz __Pull request__ z potrzebnymi zmianami.
-* __Wspieraj pieniężnie__ - Jeśli chcesz podziękować twórcom poniższych programów za trud ich tworzenia, możesz wesprzeć ich pieniężnie, dzięki czemu będą mogli ciągle pracować przy swoich projetkach. 
+* __Wspieraj pieniężnie__ - Jeśli chcesz podziękować twórcom poniższych programów za trud ich tworzenia, możesz wesprzeć ich pieniężnie, dzięki czemu będą mogli ciągle pracować przy swoich projetkach.
 
 ## Aplikacje na Linuxa
 * __Antywirus__ - [Clamtk](https://dave-theunsub.github.io/clamtk/)
@@ -87,7 +87,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Sprawdzanie zajętości dysku__ - [Baobab](http://www.marzocca.net/linux/baobab/) -> [Qdirstat](https://github.com/shundhammer/qdirstat)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Telewizja Internetowa__ - [Kodi](https://kodi.tv/) -> [MythTV](https://www.mythtv.org/)
-* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Transmission](https://transmissionbt.com/)
+* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/)
 * __Tworzenie Bootowalnego Pendriva__ - [Etcher](https://www.balena.io/etcher/) -> [WoeUSB](https://github.com/slacka/WoeUSB) -> [MultiBootUSB](http://multibootusb.org/)
 * __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Ogre3D](https://www.ogre3d.org/) -> [Urho3D](https://urho3d.github.io/) -> [GDevelop](https://gdevelop-app.com/) -> [Torque 3D](http://www.garagegames.com/products/torque-3d)
 * __Tworzenie skrótów na pulpicie__ - [Arronax](http://www.florian-diesch.de/software/arronax/)
@@ -95,6 +95,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __VNC__ - [TigerVNC](https://tigervnc.org/) -> [Remmina](https://remmina.org/)
 * __Wirtualizacja__ - [Virtualbox](https://www.virtualbox.org/) -> [QEMU](https://www.qemu.org/)
 * __Wyszukiwanie Duplikatów__ - [Fslint](https://www.pixelbeat.org/fslint/)
+* __Wyszukiwanie Plików__ - [Fsearch](https://github.com/cboxdoerfer/fsearch) -> [Drill](https://www.drill.santamorena.me/)
 * __Wyszukiwanie Pustych Folderów__ - [Fslint](https://www.pixelbeat.org/fslint/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
 * __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/) -> [Lutris(Zarządzanie biblioteką gier/programów)](https://lutris.net/)
@@ -148,7 +149,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Sprawdzanie zajętości dysku__ - [WinDirStat](https://windirstat.net/)
 * __Szyfrowanie Danych__ - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -> [Cryptomator](https://cryptomator.org/)
 * __Telewizja Internetowa__ - [Kodi](https://kodi.tv/) -> [MythTV](https://www.mythtv.org/)
-* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Transmission](https://transmissionbt.com/) -> [PicoTorrent](https://picotorrent.org/)
+* __Torrenty__ - [Qbittorrent](https://www.qbittorrent.org/) -> [Deluge](https://deluge-torrent.org/) -> [Transmission](https://transmissionbt.com/) -> [PicoTorrent](https://picotorrent.org/)
 * __Tworzenie Bootowalnego Pendriva__ - [Rufus](https://rufus.ie/) -> [Etcher](https://www.balena.io/etcher/) -> [MultiBootUSB](http://multibootusb.org/)
 * __Tworzenie Gier__ - [Godot Engine](https://godotengine.org/) -> [Cocos2D-x](https://cocos2d-x.org/) -> [Xenko](https://xenko.com/) -> [Ogre3D](https://www.ogre3d.org/) -> [Urho3D](https://urho3d.github.io/) -> [GDevelop](https://gdevelop-app.com/) -> [Torque 3D](http://www.garagegames.com/products/torque-3d)
 * __Tworzenie i modyfikacja obiektów 3D__ - [Blender](https://blender.org/) -> [MeshLab](http://www.meshlab.net/) -> [Meshroom](https://alicevision.github.io/#meshroom)
@@ -227,6 +228,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Antywirus__ - [ClamAV](https://www.clamav.net/)
 * __Obsługa Multimediów__ - [FFMpeg](https://ffmpeg.org/)
 * __Skanowanie Sieci__ - [Nmap(L)](https://nmap.org/)
+* __Wyszukiwanie Plików__ - [Drill](https://www.drill.santamorena.me/)
 
 ## Dodatki do Przeglądarki
 * __Blokowanie Reklam__ - [Ublock Origin](https://github.com/gorhill/uBlock) -> [Adblock Plus](https://adblockplus.org/)
@@ -240,7 +242,6 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 ## Programy nierozwijane
 * __Odtwarzacz Muzyki__ - [Banshee(2014)](http://www.banshee-project.org/)
 * __Rysowanie/Malowanie(Grafika Rastrowa/Zwykła)__ - [Pinta(2015)](https://pinta-project.com/pintaproject/pinta/)
-* __Torrenty__ - [Deluge(2017)](https://deluge-torrent.org/)
 * __Zarządzanie Hasłami__ - [KeepassX(2016)](https://github.com/keepassx/keepassx)
 
 ### Legenda:
