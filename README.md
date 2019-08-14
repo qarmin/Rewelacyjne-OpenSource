@@ -39,6 +39,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Wspieraj pieniężnie__ - Jeśli chcesz podziękować twórcom poniższych programów za trud ich tworzenia, możesz wesprzeć ich pieniężnie, dzięki czemu będą mogli ciągle pracować przy swoich projetkach.
 
 ## Aplikacje na Linuxa
+**Większość z tych aplikacji można znaleźć w domyślnym sklepie posiadanej dystrybucji**  
 * __Antywirus__ - [Clamtk](https://dave-theunsub.github.io/clamtk/)
 * __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/) -> [File-Roller](https://en.wikipedia.org/wiki/File_Roller) -> [Engrampa](https://github.com/mate-desktop/engrampa)
 * __Czyszczenie Systemu__ - [Bleachbit](https://www.bleachbit.org/) -> [Stacer](https://github.com/oguzhaninan/Stacer/releases)
@@ -70,7 +71,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Odtwarzacz Muzyki__ - [Clementine](https://www.clementine-player.org/) -> [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox/) -> [Amarok](https://amarok.kde.org/) -> [Audacious](https://audacious-media-player.org/) -> [Tomahawk](https://github.com/tomahawk-player/tomahawk)
 * __Odtwarzacz Video__ - [VLC](https://www.videolan.org/vlc/) -> [MPV](https://mpv.io/) -> [Celluloid](https://github.com/celluloid-player/celluloid) -> [SMPlayer](https://www.smplayer.info/) -> [Mplayer](http://www.mplayerhq.hu/)
 * __Odzyskiwanie plików__ - [Photorec/Testdisk](https://www.cgsecurity.org/wiki/TestDisk_Download) -> [QphotoRec](https://www.cgsecurity.org/wiki/TestDisk_Download)
-* __Organizacja i Edycja Zdjęć__ - [GIMP](https://www.gimp.org/) -> [Digikam](https://www.digikam.org/) -> [Darktable](https://www.darktable.org/) -> [Shotwell](https://wiki.gnome.org/Apps/Shotwell) -> [RAW Therapee](https://www.rawtherapee.com/) -> [gThumb](https://wiki.gnome.org/Apps/Gthumb)
+* __Organizacja i Edycja Zdjęć__ - [GIMP](https://www.gimp.org/) -> [Digikam](https://www.digikam.org/) -> [Darktable](https://www.darktable.org/) -> [Shotwell](https://wiki.gnome.org/Apps/Shotwell) -> [RAW Therapee](https://www.rawtherapee.com/) -> [gThumb](https://wiki.gnome.org/Apps/Gthumb) -> [Fotoxx](https://kornelix.net/downloads/downloads.html) -> [Rapid Photo Downloader](https://www.damonlynch.net/rapid/)
 * __Pakiet Biurowy__ - [LibreOffice](https://pl.libreoffice.org/pobieranie/) -> [OnlyOffice](https://www.onlyoffice.com/) -> [Calligra Suite](https://www.calligra.org) -> [Abiword](https://abisource.com/) + [Gnumeric](http://www.gnumeric.org) -> [OpenOffice](https://www.openoffice.org/pl/)
 * __Pobieranie Plików__ - [Jdownloader 2](http://www.jdownloader.org/jdownloader2) -> [uGet](https://ugetdm.com/)
 * __Poczta__ - [Thunderbird](https://www.thunderbird.net) -> [Claws Mail](http://www.claws-mail.org/) -> [Sylpheed](https://sylpheed.sraoss.jp/en/)
@@ -226,8 +227,11 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 
 ## Aplikacje Konsolowe
 * __Antywirus__ - [ClamAV](https://www.clamav.net/)
+* __Edytor Tekstu__ - [Vim](https://www.vim.org/) -> [Nano](https://www.nano-editor.org/)
+* __Menedżer Plików__ - [Midnight Commander](https://midnight-commander.org/)
 * __Obsługa Multimediów__ - [FFMpeg](https://ffmpeg.org/)
 * __Skanowanie Sieci__ - [Nmap(L)](https://nmap.org/)
+* __Transmiter Telewizyjny__ - [HackTV](https://github.com/fsphil/hacktv/)
 * __Wyszukiwanie Plików__ - [Drill](https://www.drill.santamorena.me/)
 
 ## Dodatki do Przeglądarki
