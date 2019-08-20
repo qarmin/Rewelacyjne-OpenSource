@@ -39,7 +39,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Wspieraj pieniężnie__ - Jeśli chcesz podziękować twórcom poniższych programów za trud ich tworzenia, możesz wesprzeć ich pieniężnie, dzięki czemu będą mogli ciągle pracować przy swoich projetkach.
 
 ## Aplikacje na Linuxa
-**Większość z tych aplikacji można znaleźć w domyślnym sklepie posiadanej dystrybucji**  
+**Większość z tych aplikacji można znaleźć w domyślnym sklepie aplikacji, obecnej w prawie każdej dystrybucji**
 * __Antywirus__ - [Clamtk](https://dave-theunsub.github.io/clamtk/)
 * __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/) -> [File-Roller](https://en.wikipedia.org/wiki/File_Roller) -> [Engrampa](https://github.com/mate-desktop/engrampa)
 * __Czyszczenie Systemu__ - [Bleachbit](https://www.bleachbit.org/) -> [Stacer](https://github.com/oguzhaninan/Stacer/releases)
@@ -58,10 +58,11 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Komputerowe wspomaganie projektowania__ - [QCad(0*0)](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/) -> [OpenSCAD](https://www.openscad.org/)
 * __Konwertowanie Video__ - [Handbrake](https://handbrake.fr/)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
+* __Konsola__ - [Tilix](https://gnunn1.github.io/tilix-web/) -> [Powershell](https://microsoft.com/powershell) -> [Terminator](https://launchpad.net/terminator/) -> [Konsole](https://konsole.kde.org/) -> [XFCE Terminal](https://goodies.xfce.org/projects/applications/terminal) -> [Hyper](hyper.is) -> [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) -> [Alacritty](https://github.com/jwilm/alacritty)
 * __Kopia Zapasowa__ - [Timeshift](https://github.com/teejee2008/timeshift) -> [Deja-Dup](https://wiki.gnome.org/Apps/DejaDup) -> [Simple Backup Suite](https://help.ubuntu.com/community/BackupYourSystem/SimpleBackupSuite) -> [Grsync](http://www.opbyte.it/grsync/) -> [Duplicati](https://www.duplicati.com/)
 * __Mapy__ - [Marble](https://marble.kde.org/) -> [GNOME Maps](https://wiki.gnome.org/Apps/Maps)
 * __Modyfikacja GRUB__ - [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) -> [Grub-Customizer](https://launchpad.net/grub-customizer)
-* __Modyfikacja PDF__ -  -> [PDFsam](https://pdfsam.org/) -> [PDF-Shuffler](https://sourceforge.net/projects/pdfshuffler/)
+* __Modyfikacja PDF__ - -> [PDFsam](https://pdfsam.org/) -> [PDF-Shuffler](https://sourceforge.net/projects/pdfshuffler/)
 * __Nagrywanie__ - [OBS Studio](https://obsproject.com/) -> [Simple Screen Recorder](https://www.maartenbaert.be/simplescreenrecorder/) -> [Green Recorder](https://github.com/foss-project/green-recorder)
 * __Nauka Języków__ - [Anki](https://apps.ankiweb.net/) -> [Mnemosyne](https://mnemosyne-proj.org/)
 * __Nocne Światło__ - [RedShift](http://jonls.dk/redshift/)
@@ -118,6 +119,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Informacje o systemie__ - [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) -> [WinAudit](http://www.parmavex.co.uk/winaudit.html)
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Komputerowe wspomaganie projektowania__ - [QCad](https://www.qcad.org/en/) -> [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/) -> [OpenSCAD](https://www.openscad.org/)
+* __Konsola__ - [Far Manager](https://farmanager.com/) -> [ConEmu](https://conemu.github.io/) -> [cmder](https://cmder.net/) -> [Powershell](https://microsoft.com/powershell) -> [Hyper](hyper.is) -> [Alacritty](https://github.com/jwilm/alacritty)
 * __Konwertowanie Video__ - [Handbrake](https://handbrake.fr/) -> [VidCoder](http://vidcoder.net/)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Kopia Zapasowa__ - [Duplicati](https://www.duplicati.com/)
@@ -227,12 +229,36 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 
 ## Aplikacje Konsolowe
 * __Antywirus__ - [ClamAV](https://www.clamav.net/)
-* __Edytor Tekstu__ - [Vim](https://www.vim.org/) -> [Nano](https://www.nano-editor.org/)
-* __Menedżer Plików__ - [Midnight Commander](https://midnight-commander.org/)
+* __Bazy Danych__ - [mycli](https://github.com/dbcli/mycli) -> [pgcli](https://github.com/dbcli/pgcli)
+* __Edytor Tekstu__ - [Vim](https://www.vim.org/) -> [Nano](https://www.nano-editor.org/) -> [Kakoune](https://kakoune.org/) -> [Emacs](https://github.com/emacs-mirror/emacs) -> [neovim](https://github.com/neovim/neovim) -> [micro](https://github.com/zyedidia/micro)
+* __Email__ - [NeoMutt](https://neomutt.org/)
+* __Facebook__ - [facebook-cli](https://github.com/specious/facebook-cli)
+* __GIT__ - [GIT](https://git-scm.com/) -> [g3l](https://github.com/svhawks/g3l)
+* __Github__ - [CLI Github](https://github.com/IonicaBizau/cli-github)
+* __IRC__ - [irssi](https://github.com/irssi/irssi)
+* __Informacje o Systemie__ - [neofetch](https://github.com/dylanaraps/neofetch)
+* __Kalendarz__ - [Calcurse](http://calcurse.org/)
+* __Mapy__ - [MapSCII](https://github.com/rastapasta/mapscii)
+* __Menedżer Plików__ - [Midnight Commander](https://midnight-commander.org/) -> [ranger](https://github.com/ranger/ranger) -> [nnn](https://github.com/jarun/nnn) -> [lf](https://github.com/gokcehan/lf) -> [fff](https://github.com/dylanaraps/fff)
+* __Monitorowanie Systemu__ - [Htop](https://hisham.hm/htop/) -> [Glances](https://nicolargo.github.io/glances/)
+* __Obliczanie Linii Kodu__ - [cloc](https://github.com/AlDanial/cloc)
 * __Obsługa Multimediów__ - [FFMpeg](https://ffmpeg.org/)
+* __Odtwarzacz Muzyki__ - [MOC](https://moc.daper.net/) -> [musikcube](https://github.com/clangen/musikcube) -> [cmus](https://github.com/cmus/cmus)
+* __Pogoda__ - [wego](https://github.com/schachmat/wego) -> [weather-cli](https://github.com/riyadhalnur/weather-cli)
+* __Reddit__ - [Rtv](https://github.com/michael-lazar/rtv)
 * __Skanowanie Sieci__ - [Nmap(L)](https://nmap.org/)
+* __Sprawdzanie Zajętości Dysku__ - [NCDu](https://dev.yorhel.nl/ncdu)
+* __Stoper__ - [TimeWarrior](https://github.com/GothenburgBitFactory/timewarrior)
+* __Szukanie Plików__ - [fd](https://github.com/sharkdp/fd) -> [fzf](https://github.com/junegunn/fzf) -> [find-up-cli](https://github.com/sindresorhus/find-up-cli)
+* __TODO__ - [td-cli](https://github.com/darrikonn/td-cli) -> [TaskWarrior](https://taskwarrior.org/)
+* __Torrenty__ - [transmission-cli](https://transmissionbt.com/) -> [webtorrent-cli](https://github.com/feross/webtorrent-cli)
 * __Transmiter Telewizyjny__ - [HackTV](https://github.com/fsphil/hacktv/)
+* __Twitter__ - [oysttyer](https://github.com/oysttyer/oysttyer) -> [rainbowstream](https://github.com/orakaro/rainbowstream)
+* __Tworzenie Gifów__ - [gifsicle](https://github.com/kohler/gifsicle) -> [gifgen](https://github.com/lukechilds/gifgen)
+* __Udostępnianie Plików w Internecie__ - [ffsend](https://github.com/timvisee/ffsend)
 * __Wyszukiwanie Plików__ - [Drill](https://www.drill.santamorena.me/)
+* __Youtube__ - [youtube-dl(pobieranie)](https://github.com/ytdl-org/youtube-dl) -> [mps-youtube(odtwarzacz)](https://github.com/mps-youtube/mps-youtube)
+* __Zarządzanie Hasłami__ - [pass](https://www.passwordstore.org/)
 
 ## Dodatki do Przeglądarki
 * __Blokowanie Reklam__ - [Ublock Origin](https://github.com/gorhill/uBlock) -> [Adblock Plus](https://adblockplus.org/)
@@ -241,7 +267,9 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Dodatki do Gmaila__ - [Simplify](https://github.com/leggett/simplify)
 * __Dodatki do Twittera__ - [Refinied-Twitter](https://github.com/sindresorhus/refined-twitter)
 * __Proste Captcha__ - [Buster](https://github.com/dessant/buster)
+* __RSS__ - [Livemarks(Fi)](https://github.com/nt1m/livemarks/)
 * __Szyfrowanie Stron__ - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* __Zmiana User Agenta__ - [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher/)
 
 ## Programy nierozwijane
 * __Odtwarzacz Muzyki__ - [Banshee(2014)](http://www.banshee-project.org/)
