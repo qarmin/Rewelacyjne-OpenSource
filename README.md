@@ -113,6 +113,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Edytor Tekstu__ - [Notepad++](https://notepad-plus-plus.org/) -> [Atom](https://atom.io/) -> [CherryTree](https://www.giuspen.com/cherrytree/)
 * __Edytor Video__ - [KdenLive](https://kdenlive.org/) -> [Openshot](https://www.openshot.org/) -> [Vidcutter](https://github.com/ozmartian/vidcutter/releases) -> [Shotcut](https://www.shotcut.org/) -> [WinFF](https://www.biggmatt.com/p/winff.html) -> [VirtualDub2](http://virtualdub2.com/) -> [Olive](https://www.olivevideoeditor.org/download.php)
 * __Emulacja__ - [RPCS3](https://rpcs3.net/) -> [Dosbox](https://www.dosbox.com/) -> [PCSX2](https://pcsx2.net/) -> [RetroArch](http://www.retroarch.com/) -> [Dolphin](https://pl.dolphin-emu.org) -> [PPSSPP](https://www.ppsspp.org/) -> [XQEMU](https://xqemu.com/) -> [xenia](https://xenia.jp/)
+* __Firewall__ - [SimpleWall](https://github.com/henrypp/simplewall/releases)
 * __FTP__ - [FileZilla](https://filezilla-project.org/) -> [WinSCP](https://winscp.net/) -> [Cyberduck](https://cyberduck.io/)
 * __GIT__ - [gitg](https://wiki.gnome.org/Apps/Gitg) -> [Git Cola](https://git-cola.github.io/) -> [TortoiseGit](https://tortoisegit.org/) -> [Github Desktop](https://desktop.github.com/)
 * __Grafika Wektorowa__ - [Inkscape](https://inkscape.org/)
