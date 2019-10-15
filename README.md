@@ -166,7 +166,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 
 ## Aplikacje na Androida
 * __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera) -> [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) -> [FreeDcam](https://github.com/KillerInk/FreeDcam) -> [Vector Camera](https://github.com/dozingcat/VectorCamera) -> [Ascii Cam(F)](https://github.com/dozingcat/AsciiCam) -> [Open Note Scanner](https://github.com/ctodobom/OpenNoteScanner)
-* __Blokowanie Reklam__ - [Blokada](https://blokada.org/) -> [AdAway(F)](https://github.com/AdAway/AdAway)
+* __Blokowanie Reklam__ - [Blokada](https://blokada.org/) -> [AdAway(F)](https://github.com/AdAway/AdAway) -> [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)
 * __Czyszczenie Systemu__ - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
 * __Czytanie Książek__ - [Book Reader(F)](https://gitlab.com/axet/android-book-reader/tree/HEAD)
 * __Dwuetapowa Weryfikacja__ - [FreeOTP](https://freeotp.github.io/) -> [andOTP](https://github.com/andOTP/andOTP)
@@ -204,7 +204,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Udostępnianie plików__ - [TrebleShot](https://github.com/genonbeta/TrebleShot)
 * __Video__ - [VLC](https://code.videolan.org/videolan/vlc-android)
 * __Wykop__ - [Wykop Mobilny(GP)](https://github.com/feelfreelinux/WykopMobilny)
-* __YouTube__ - [SkyTube](http://skytube-app.com/) -> [WebTube(F)](https://github.com/martykan/webTube)
+* __YouTube__ - [SkyTube](http://skytube-app.com/) -> [WebTube(F)](https://github.com/martykan/webTube) -> [NewPipe](https://newpipe.schabi.org/)
 * __Zarządzanie Hasłami__ - [KeePass DX](https://www.keepassdx.com/) -> [Bitwarden(GP)](https://github.com/bitwarden/mobile) -> [KeePassDroid(GP)](https://github.com/bpellin/keepassdroid) -> [KeePass2Android(GP)](https://github.com/PhilippC/keepass2android)
 * __Zegar__ - [Simple Mobile Clock](https://github.com/SimpleMobileTools/Simple-CLock)
 * __Inne__ - [Termbot](https://github.com/open-keychain/termbot)
