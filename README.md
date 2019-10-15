@@ -107,6 +107,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Antywirus__ - [ClamWin](http://www.clamwin.com/)
 * __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/)
 * __Czyszczenie Systemu__ - [Bleachbit](https://www.bleachbit.org/)
+* __Czyszczenie Systemu z telemetrii__ - [ShutUp10](https://www.oo-software.com/en/shutup10) -> [WPD](https://wpd.app/)
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
 * __E-Book__ - [Calibre](https://calibre-ebook.com/)
 * __Edytor Tekstu__ - [Notepad++](https://notepad-plus-plus.org/) -> [Atom](https://atom.io/) -> [CherryTree](https://www.giuspen.com/cherrytree/)
