@@ -12,6 +12,11 @@
 9. [Programy nierozwijane](#programy-nierozwijane)
 10. [Legenda](#legenda)
 
+Jeśli spodobało ci się to zestawienie, możesz przekazać darowiznę
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8ZN556U7DGP8&source=url"><img src="https://raw.githubusercontent.com/qarmin/Godot-Poradnik/master/paypal.gif"></a>
+lub zafundować mi kawę
+<a href="https://ko-fi.com/qarmin"><img height="23" src="https://raw.githubusercontent.com/qarmin/Godot-Poradnik/master/buy_me_a_coffee.png"></a>
+
 ## Informacje o repozytorium
 
 Ta lista zawiera darmowe, wolne oraz otwarte oprogramowanie na Windowsa, Linuxa oraz Androida.
@@ -57,7 +62,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Informacje o systemie__ - [HardInfo](https://help.ubuntu.com/community/HardInfo) -> [I-Nex](http://i-nex.linux.pl/) -> [CPU-X](https://github.com/X0rg/CPU-X/releases)
 * __Kalkulator__ - [SpeedCrunch](https://speedcrunch.org/)
 * __Komputerowe wspomaganie projektowania__ - [Librecad](https://librecad.org/) -> [Freecad](https://www.freecadweb.org/) -> [KiCad](http://www.kicad-pcb.org/) -> [OpenSCAD](https://www.openscad.org/)
-* __Konwertowanie Video__ - [Handbrake](https://handbrake.fr/) -> [QCad(0*0)](https://www.qcad.org/en/) 
+* __Konwertowanie Video__ - [Handbrake](https://handbrake.fr/) -> [QCad(0*0)](https://www.qcad.org/en/)
 * __Konwertowanie Wielu Obrazów__ - [Converseen](http://converseen.fasterland.net/)
 * __Konsola__ - [Tilix](https://gnunn1.github.io/tilix-web/) -> [Powershell](https://microsoft.com/powershell) -> [Terminator](https://launchpad.net/terminator/) -> [Konsole](https://konsole.kde.org/) -> [XFCE Terminal](https://goodies.xfce.org/projects/applications/terminal) -> [Hyper](hyper.is) -> [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) -> [Alacritty](https://github.com/jwilm/alacritty)
 * __Kopia Zapasowa__ - [Timeshift](https://github.com/teejee2008/timeshift) -> [Deja-Dup](https://wiki.gnome.org/Apps/DejaDup) -> [Simple Backup Suite](https://help.ubuntu.com/community/BackupYourSystem/SimpleBackupSuite) -> [Grsync](http://www.opbyte.it/grsync/) -> [Duplicati](https://www.duplicati.com/)
