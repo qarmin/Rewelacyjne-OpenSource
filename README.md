@@ -9,8 +9,9 @@
 6. [Systemy](#systemy)
 7. [Aplikacje Konsolowe](#aplikacje-konsolowe)
 8. [Dodatki do Przeglądarki](#dodatki-do-przeglądarki)
-9. [Programy nierozwijane](#programy-nierozwijane)
-10. [Legenda](#legenda)
+9. [Własne usługi](#własne-usługi)
+10. [Programy nierozwijane](#programy-nierozwijane)
+11. [Legenda](#legenda)
 
 ## Informacje o repozytorium
 
@@ -18,17 +19,18 @@ Ta lista zawiera darmowe, wolne oraz otwarte oprogramowanie na Windowsa, Linuxa 
 
 Jest ona przeznaczona dla osób, które mają dość oprogramowania, którego prawie nikt nie może zweryfikować, wszędobylskich reklam, wirusów oraz szpiegowania.
 
-Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, która umożliwia przeglądanie, modyfikowanie i uruchamianie jego kodu bez żadnych opłat, nawet dla użytku komercyjnego(MIT, GPL).
+Podstawą do umieszczenia programu na tej liście jest posiadanie licencji, która umożliwia przeglądanie, modyfikowanie i uruchamianie jego kodu bez żadnych opłat, nawet dla użytku komercyjnego(MIT, GPL, itp.).
 
 W punktach 3-5 zawarte są programy, które posiadają graficzny interfejs użytkownika(GUI).  
 W punkcie 6 są pokazane systemy operacyjne.  
 W punkcie 7 zawarte są programy konsolowe, działające w całości z poziomu terminala/konsoli.  
 W punkcie 8 zawarte są dodatki do przeglądarek bazujących na kodzie Firefoxa oraz Chromium, preferowane są dodatki działające na obu powyższych przeglądarkach.  
-W punkcie 9 zawarte są programy, które już nie są rozwijane.
+W punkcie 9 znajdują się programy i aplikacje, które możemy sami hostować np. za pomocą Dockera, tj. repozytorium Gita, serwery WWW czy programy do zbierania logów z sieci.  
+W punkcie 10 zawarte są programy, które już nie są rozwijane.
 
 To zestawienie, nie zawiera wbudowanych w system aplikacji czy funkcji np. Nocne Światło w GNOME.
 
-Propozycje dotyczące programów proszę wpisywać do znajdującej się powyżej zakładki __Issues__ i w razie możliwości dołączyć do danego programu link do kodu źródłowego(Android) ponieważ zwykle są tam linki do F-Droid oraz Google Play lub strony głównej projektu(Linux i Windows). W razie znalezienia błędu w liście, również polecam skorzystanie z powyższej zakładki.
+Propozycje dotyczące programów proszę wpisywać do znajdującej się powyżej zakładki __Issues__ i w razie możliwości dołączyć do danego programu link do kodu źródłowego(Android) ponieważ zwykle są tam linki do F-Droid oraz Google Play lub strony głównej projektu(Linux i Windows) lub do strony z obrazami Dockera(Samohostowane usługi). W razie znalezienia błędu w liście, również polecam skorzystanie z powyższej zakładki.
 
 Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kategoriach wprowadza zbyt duży chaos, zastrzegam sobie prawo do usuwania tych programów, które w moim mniemaniu są zbyt mało popularne, funkcjonalne lub już nie wspierane.
 
@@ -109,6 +111,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Archiwizacja__ - [7-zip](https://www.7-zip.org/) -> [PeaZip](http://www.peazip.org/)
 * __Czyszczenie Systemu__ - [Bleachbit](https://www.bleachbit.org/)
 * __Czytnik RSS__ - [QuiteRSS](https://quiterss.org/)
+* __Docker__ - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * __Dysk Online__ - [Nextcloud](https://nextcloud.com/install/)
 * __E-Book__ - [Calibre](https://calibre-ebook.com/)
 * __Edytor Tekstu__ - [Notepad++](https://notepad-plus-plus.org/) -> [Atom](https://atom.io/) -> [CherryTree](https://www.giuspen.com/cherrytree/)
@@ -235,6 +238,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 ## Aplikacje Konsolowe
 * __Antywirus__ - [ClamAV](https://www.clamav.net/)
 * __Bazy Danych__ - [mycli](https://github.com/dbcli/mycli) -> [pgcli](https://github.com/dbcli/pgcli)
+* __Docker__ - [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/) -> [Docker Compose](https://docs.docker.com/compose/)
 * __Edytor Tekstu__ - [Vim](https://www.vim.org/) -> [Nano](https://www.nano-editor.org/) -> [Kakoune](https://kakoune.org/) -> [Emacs](https://github.com/emacs-mirror/emacs) -> [neovim](https://github.com/neovim/neovim) -> [micro](https://github.com/zyedidia/micro)
 * __Email__ - [NeoMutt](https://neomutt.org/)
 * __Facebook__ - [facebook-cli](https://github.com/specious/facebook-cli)
@@ -289,6 +293,33 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Zarządzenie Hasłami__ - [Bitwarden](https://bitwarden.com/) -> [KeepassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser)
 * __Zmiana User Agenta__ - [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher/)
 * __Inne__ - [Tree Style Tab(wyświetla karty jako drzewa)(Fi)](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab)
+
+## Własne usługi
+* __Analiza Danych__ - [Matomo](https://hub.docker.com/_/matomo) -> [Fathom](https://hub.docker.com/r/usefathom/fathom)
+* __Bazy Danych__ - [MariaDB](https://hub.docker.com/_/mariadb) -> [Mysql](https://hub.docker.com/_/mysql) -> [MongoDB](https://hub.docker.com/_/mongo) -> [Postgres](https://hub.docker.com/_/postgres) -> [Percona](https://hub.docker.com/_/percona) -> [Drupal](https://hub.docker.com/_/drupal) -> [Plone](https://hub.docker.com/_/plone) -> [CouchDB](https://hub.docker.com/_/couchdb) -> [neo4j](https://hub.docker.com/_/neo4j) -> [RethinkDB](https://hub.docker.com/_/rethinkdb) -> [ArangoDB](https://hub.docker.com/_/arangodb) -> [OrientDB](https://hub.docker.com/_/orientdb)
+* __CMS__ - [Wordpress](https://hub.docker.com/_/wordpress) -> [Backdrop](https://hub.docker.com/_/backdrop) -> [Joomla!](https://hub.docker.com/_/joomla)
+* __Docker__ - [Swarm](https://hub.docker.com/_/swarm) -> [Docker](https://hub.docker.com/_/docker)
+* __Dokumenty__ - [CryptPad](https://hub.docker.com/r/cryptpad/cryptpad) -> [OnlyOffice](https://hub.docker.com/r/onlyoffice/documentserver)
+* __Domowy Asystent__ - [Home Assistant](https://hub.docker.com/r/homeassistant/home-assistant)
+* __GIT__ - [Gitlab CE](https://hub.docker.com/r/gitlab/gitlab-ce) -> [Gitea](https://hub.docker.com/r/gitea/gitea) -> [Gogs](https://hub.docker.com/r/gogs/gogs) -> [Gitote](https://hub.docker.com/r/gitote/gitote)
+* __Języki Programowania__ - [GCC](https://hub.docker.com/_/gcc) -> [Rust](https://hub.docker.com/_/rust) -> [Swift](https://hub.docker.com/_/swift) -> [Golang](https://hub.docker.com/_/golang) -> [Java](https://hub.docker.com/_/openjdk) -> [Python](https://hub.docker.com/_/python) -> [PHP](https://hub.docker.com/_/php) -> [Perl](https://hub.docker.com/_/perl) -> [Erlang](https://hub.docker.com/_/erlang) -> [Mono C#](https://hub.docker.com/_/mono) -> [Haxe](https://hub.docker.com/_/haxe)
+* __Komunikatory__ - [Rocket Chat](https://hub.docker.com/_/rocket-chat) -> [Mattermost](https://hub.docker.com/r/mattermost/mattermost-team-edition) -> [Riot](https://hub.docker.com/r/bubuntux/riot-web)
+* __Menedżer Haseł__ - [Bitwarden](https://hub.docker.com/r/bitwardenrs/server)
+* __Monitorowanie Oprogramowania__ - [Sentry](https://sentry.io/welcome/)
+* __Monitorowanie Urządzeń__ - [Zabbix Appliance](https://hub.docker.com/r/zabbix/zabbix-appliance) -> [Zabbix Agent](https://hub.docker.com/r/zabbix/zabbix-agent)
+* __Portale Społecznościowe__ - [Mastodon](https://hub.docker.com/r/tootsuite/mastodon)
+* __Przechowywanie i udostępnianie plików__ - [Nextcloud](https://hub.docker.com/_/nextcloud) -> [OwnCloud](https://hub.docker.com/_/owncloud)
+* __Równoważenie obciążenia__ - [HaProxy](https://hub.docker.com/_/haproxy)
+* __Serwery WWW__ - [Nginx](https://hub.docker.com/_/nginx) -> [Apache](https://hub.docker.com/_/httpd) -> [Jetty](https://hub.docker.com/_/jetty) -> [Rapidoid](https://hub.docker.com/_/rapidoid)
+* __Sklepy Internetowe__ - [Reaction Commerce](https://hub.docker.com/r/reactioncommerce/reaction)
+* __System Buforowania Pamięci__ - [Memcached](https://hub.docker.com/_/memcached)
+* __System__ - [Ubuntu](https://hub.docker.com/_/ubuntu) -> [Alpine](https://hub.docker.com/_/alpine) -> [Debian](https://hub.docker.com/_/debian) -> [CentOS](https://hub.docker.com/_/centos) -> [Fedora](https://hub.docker.com/_/fedora) -> [Clear Linux](https://hub.docker.com/_/clearlinux) -> [Mageia](https://hub.docker.com/_/mageia)
+* __Udostępnianie Filmów__ - [PeerTube](https://hub.docker.com/r/chocobozzz/peertube)
+* __Wiki__ - [Bookstack](https://hub.docker.com/r/linuxserver/bookstack) -> [Xwiki](https://hub.docker.com/_/xwiki)
+* __Wyszukiwanie i Analiza Tekstów__ - [ElasticSearch](https://hub.docker.com/_/elasticsearch)
+* __Zarządzanie Logami i Zdarzeniami__ - [Logstash](https://hub.docker.com/_/logstash)
+* __Zarządzanie Projektami__ - [Redmine](https://hub.docker.com/_/redmine) -> [Kanboard](https://hub.docker.com/r/kanboard/kanboard) -> [Wekan](https://hub.docker.com/r/wekanteam/wekan)
+* __Inne__ - [Node](https://hub.docker.com/_/node) -> [RabbitMQ](https://hub.docker.com/_/rabbitmq)
 
 ## Programy nierozwijane
 * __Odtwarzacz Muzyki__ - [Banshee(2014)](http://www.banshee-project.org/)
