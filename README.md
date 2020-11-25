@@ -104,7 +104,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Wyszukiwanie Plików__ - [Fsearch](https://github.com/cboxdoerfer/fsearch) -> [Drill](https://www.drill.santamorena.me/) -> [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch)
 * __Wyszukiwanie Pustych Folderów__ - [Fslint](https://www.pixelbeat.org/fslint/)
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/) -> [Lutris(Zarządzanie biblioteką gier/programów)](https://lutris.net/) -> [GnomeTwitch](https://gnome-twitch.vinszent.com)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [KDEConnect(Łączenie się z telefonem)](https://invent.kde.org/kde/kdeconnect-kde) -> [Radeon Profile(Zarządzanie kartami AMD)](https://github.com/marazmista/radeon-profile) -> [GWE(Podkręcanie kart Nvidii)](https://gitlab.com/leinardi/gwe) -> [Issabel(Wirtualna Centrala Telefoniczna)](https://www.issabel.org/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/) -> [Lutris(Zarządzanie biblioteką gier/programów)](https://lutris.net/) -> [GnomeTwitch](https://gnome-twitch.vinszent.com) -> [Syncthing](https://syncthing.net/)
 
 ## Aplikacje na Windowsa
 * __Antywirus__ - [ClamWin](http://www.clamwin.com/)
@@ -132,7 +132,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Mapy__ - [Marble](https://marble.kde.org/)
 * __Modyfikacja GRUB__ - [Grub2Win](https://sourceforge.net/projects/grub2win/)
 * __Modyfikacja PDF__ - [PDFsam](https://pdfsam.org/) -> [PDFKTBuilder](http://angusj.com/pdftkb/)
-* __Nagrywanie__ - [OBS Studio](https://obsproject.com/)
+* __Nagrywanie__ - [OBS Studio](https://obsproject.com/) -> [Sharex](https://getsharex.com/)
 * __Nauka Języków__ - [Anki](https://apps.ankiweb.net/) -> [Mnemosyne](https://mnemosyne-proj.org/)
 * __Nocne Światło__ - [RedShift](http://jonls.dk/redshift/) -> [LightBulp](https://github.com/Tyrrrz/LightBulb/releases)
 * __Obróbka Dźwięku__ - [Audacity](https://www.audacityteam.org/) -> [LMMS](https://lmms.io) -> [Ardour(0*0)](https://ardour.org/) -> [Qtractor](http://www.qtractor.org/) -> [Mixxx](https://www.mixxx.org/)
@@ -167,7 +167,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __Wyszukiwanie Duplikatów__ - [AntiDupl.Net](https://github.com/ermig1979/AntiDupl)
 * __Wyszukiwanie Pustych Folderów__ -
 * __Zarządzanie Hasłami__ - [KeepassXC](https://keepassxc.org/) -> [Keepass](https://keepass.info/) -> [Bitwarden](https://github.com/bitwarden/desktop)
-* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/)
+* __Inne__ - [OpenJDK](https://openjdk.java.net/) -> [SQLite Studio](https://sqlitestudio.pl/index.rvt) -> [Putty](https://putty.org/) -> [Wireshark](https://www.wireshark.org/) -> [Syncthing](https://syncthing.net/)
 
 ## Aplikacje na Androida
 * __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera) -> [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) -> [FreeDcam](https://github.com/KillerInk/FreeDcam) -> [Vector Camera](https://github.com/dozingcat/VectorCamera) -> [Ascii Cam(F)](https://github.com/dozingcat/AsciiCam) -> [Open Note Scanner](https://github.com/ctodobom/OpenNoteScanner)
@@ -213,7 +213,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 * __YouTube__ - [NewPipe(F)](https://f-droid.org/packages/org.schabi.newpipe/) -> [SkyTube](http://skytube-app.com/) -> [WebTube(F)](https://github.com/martykan/webTube)
 * __Zarządzanie Hasłami__ - [KeePass DX](https://www.keepassdx.com/) -> [Bitwarden(GP)](https://github.com/bitwarden/mobile) -> [KeePassDroid(GP)](https://github.com/bpellin/keepassdroid) -> [KeePass2Android(GP)](https://github.com/PhilippC/keepass2android)
 * __Zegar__ - [Simple Mobile Clock](https://github.com/SimpleMobileTools/Simple-CLock)
-* __Inne__ - [Termbot](https://github.com/open-keychain/termbot)
+* __Inne__ - [Termbot](https://github.com/open-keychain/termbot) -> [Syncthing](https://syncthing.net/)
 
 ## Systemy
 * __Ubuntu__ - [Ubuntu](https://www.ubuntu.com/) -> [Kubuntu](https://kubuntu.org/) -> [Xubuntu](https://xubuntu.org/) -> [Lubuntu](https://lubuntu.net/) -> [Ubuntu Mate](https://ubuntu-mate.org/) -> [Ubuntu Server](https://www.ubuntu.com/download/server)
