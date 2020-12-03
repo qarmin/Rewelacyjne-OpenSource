@@ -13,6 +13,11 @@
 10. [Programy nierozwijane](#programy-nierozwijane)
 11. [Legenda](#legenda)
 
+Jeśli spodobało ci się to zestawienie, możesz przekazać darowiznę
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q8ZN556U7DGP8&source=url"><img src="https://raw.githubusercontent.com/qarmin/Godot-Poradnik/master/paypal.gif"></a>
+lub zafundować mi kawę
+<a href="https://ko-fi.com/qarmin"><img height="23" src="https://raw.githubusercontent.com/qarmin/Godot-Poradnik/master/buy_me_a_coffee.png"></a>
+
 ## Informacje o repozytorium
 
 Ta lista zawiera darmowe, wolne oraz otwarte oprogramowanie na Windowsa, Linuxa oraz Androida.
