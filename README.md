@@ -171,7 +171,7 @@ Aby uniknąć sytuacji, w której duża liczba programów w poszczególnych kate
 
 ## Aplikacje na Androida
 * __Aparat__ - [Open Camera](https://github.com/almalence/OpenCamera) -> [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) -> [FreeDcam](https://github.com/KillerInk/FreeDcam) -> [Vector Camera](https://github.com/dozingcat/VectorCamera) -> [Ascii Cam(F)](https://github.com/dozingcat/AsciiCam) -> [Open Note Scanner](https://github.com/ctodobom/OpenNoteScanner)
-* __Blokowanie Reklam__ - [Blokada](https://blokada.org/) -> [AdAway(F)](https://github.com/AdAway/AdAway)
+* __Blokowanie Reklam__ - [AdAway(F)](https://github.com/AdAway/AdAway) -> [Blokada](https://github.com/blokadaorg/blokada) -> [DNS66](https://github.com/julian-klode/dns66) -> [Nebulo](https://github.com/Ch4t4r/Nebulo) -> [RethinkDNS + Firewall](https://github.com/celzero/rethink-app)
 * __Czyszczenie Systemu__ - [LTE Cleaner](https://github.com/TheRedSpy15/LTECleanerFOSS)
 * __Czytanie Książek__ - [Book Reader(F)](https://gitlab.com/axet/android-book-reader/tree/HEAD)
 * __Dwuetapowa Weryfikacja__ - [FreeOTP](https://freeotp.github.io/) -> [andOTP](https://github.com/andOTP/andOTP)
